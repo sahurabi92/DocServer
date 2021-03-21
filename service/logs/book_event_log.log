@@ -1,0 +1,30 @@
+[2021-03-22 01:07:28,150] - INFO-ddd-Uploaded the document
+[2021-03-22 01:07:37,113] - INFO-Queried All the data from the DB
+[2021-03-22 01:16:20,181] - INFO-Queried All the data from the DB
+[2021-03-22 01:24:15,020] - INFO-All the Members are added as Collaborator(s) ['string']
+[2021-03-22 01:24:24,784] - INFO-Queried All the data from the DB
+[2021-03-22 01:24:57,749] - ERROR-Error while adding of Collaborator(s)
+[2021-03-22 01:26:52,819] - ERROR-Error while adding of Collaborator(s)
+[2021-03-22 01:28:19,013] - ERROR-Error while adding of Collaborator(s)
+[2021-03-22 01:28:22,120] - ERROR-Error while adding of Collaborator(s)
+[2021-03-22 01:28:33,034] - ERROR-Error while adding of Collaborator(s)
+[2021-03-22 01:29:19,079] - ERROR-Error while adding of Collaborator(s)
+[2021-03-22 01:35:05,782] - INFO-All the Members are added as Collaborator(s) ['string']
+[2021-03-22 01:35:35,566] - INFO-All the Members are added as Collaborator(s) ['string', 'hill']
+[2021-03-22 01:35:58,123] - INFO-All the Members are added as Collaborator(s) ['meee', 'hill']
+[2021-03-22 01:37:03,802] - INFO-All the Members are added as Collaborator(s) ['rabi', 'shayam']
+[2021-03-22 01:37:12,505] - INFO-Queried All the data from the DB
+[2021-03-22 01:48:04,403] - ERROR-Error while adding of Collaborator(s)
+[2021-03-22 01:48:30,782] - ERROR-Error while adding of Collaborator(s)
+[2021-03-22 01:49:48,232] - ERROR-Error while adding of Collaborator(s)
+[2021-03-22 01:50:12,347] - ERROR-Error while adding of Collaborator(s)
+[2021-03-22 01:53:59,911] - INFO-Queried All the data from the DB
+[2021-03-22 01:54:12,121] - INFO-All the Members are added as Collaborator(s) ['string']
+[2021-03-22 01:56:47,203] - INFO-Queried All the data from the DB
+[2021-03-22 01:57:02,664] - ERROR-Error While Enabling the Edit Mode
+[2021-03-22 01:57:19,485] - ERROR-Error While Enabling the Edit Mode
+[2021-03-22 01:59:20,648] - ERROR-Error While Enabling the Edit Mode
+[2021-03-22 01:59:22,762] - ERROR-Error While Enabling the Edit Mode
+[2021-03-22 01:59:40,178] - INFO-ddd - Enabled The Edit Mode
+[2021-03-22 02:05:14,459] - ERROR-Error While Enabling the Edit Mode
+[2021-03-22 02:08:05,273] - INFO-Queried All the data from the DB

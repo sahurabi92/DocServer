@@ -1,0 +1,770 @@
+2019-04-26 19:29:33	DEBUG	com.miui.videoplayer	[ FrameworkConfig ] setAppPath appPath == /storage/emulated/0/MiVideoGlobal
+2019-04-26 19:29:33	DEBUG	ThemeUtils	[ createPackageContext ] isTheme= false   mThemeId= com.miui.video.theme.01
+2019-04-26 19:29:33	DEBUG	com.miui.videoplayer	[ OVDatabase-Setting ] cacheToMemory
+2019-04-26 19:29:33	DEBUG	DBUtils	[ DBUtils ] getDatabaseName= online.db
+2019-04-26 19:29:33	DEBUG	OVDatabase	[ query ] getCount=18	com.miui.video.framework.db.TableEntity@3bc4736
+tableName=ov_setting_table
+
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ init ] ==========Device Info==========
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ androidSDK ] 27
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneBoard ] sdm636
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneBrand ] xiaomi
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneCPU_ABT ] armeabi-v7a
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneDevice ] whyred
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneDisplay ] OPM1.171019.011
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneFingerprint ] xiaomi/whyred/whyred:8.1.0/OPM1.171019.011/V10.2.2.0.OEIMIXM:user/release-keys
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneHost ] mi-server
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneID ] OPM1.171019.011
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneManufacturer ] Xiaomi
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneModel ] Redmi Note 5 Pro
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneVersion ] 8.1.0
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneProduct ] whyred
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneTags ] release-keys
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneTime ] Thu Mar 14 13:22:10 GMT+05:30 2019
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneType ] user
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ phoneUser ] builder
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ screenDensity ] 2.75
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ screenScaledDensity ] 3.1625
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ screenWidthPixels ] 1080
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ wcreenHeightPixels ] 2030
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ screenStatusBarHeight ] 66
+2019-04-26 19:29:33	DEBUG	DeviceUtils	[ init ] ===============================
+2019-04-26 19:29:33	DEBUG	com.miui.videoplayer	[ AppConfig ] initAppChannel success channel = mimarket
+2019-04-26 19:29:33	DEBUG	com.miui.videoplayer	[ AppConfig ] initAppChannel success platform = mimarket
+2019-04-26 19:29:33	DEBUG	com.miui.videoplayer	[ VideoMediationConfig ] init
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoMediationConfig ] init end  ENABLE_LOG = trueIS_LOCAL_CONFIG = false ; Staging = false ;  is test = false
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ Plugin-PackageInstaller ] init
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ Plugin-CPInfoConfig ] init CPInfoConfig
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoJobScheduler ]  canceUpdateWork!
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoJobScheduler ] periodic worker enqueue!
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.global.GlobalApplication@c7da0c2
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.global.GlobalApplication@c7da0c2
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] lastTimeStamp = 1555795168923, ignoreSyncSettingTimes = 0
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] getCloudSetting ()
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.global.GlobalApplication@c7da0c2
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.global.GlobalApplication@c7da0c2
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] get Account success
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackDev : map = {"result":"success","type":"login_state_on_launch"}
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"","_miui":"V10","_ver":"2019040990(MiVideo-GMM)","_anoyid":"c1625c48-d52e-4c34-bd51-4700e4dea10d","_region":"IN","type":"login_state_on_launch","_res":"hd1080","_device":"whyred","result":"success","_miuiver":"V10.2.2.0.OEIMIXM","ref":"com.miui.videoplayer","_appver":"2019040990","_nettype":"4","_andver":"27","_model":"Redmi Note 5 Pro","_plyver":"20190218","_ismiui":"1","_locale":"en_GB","_ts":"1556287174"}
+2019-04-26 19:29:34	DEBUG	DataUtils	[ addUI ] ui= com.miui.video.localvideoplayer.GalleryPlayerActivity@a96dc51
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] is preview = false
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackDev : map = {"ref":"com.miui.videoplayer","page_name":"GalleryPlayerActivity","package_from":"com.miui.gallery","type":"page_view"}
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"","_miui":"V10","_ver":"2019040990(MiVideo-GMM)","_anoyid":"c1625c48-d52e-4c34-bd51-4700e4dea10d","_region":"IN","type":"page_view","_res":"hd1080","_device":"whyred","_miuiver":"V10.2.2.0.OEIMIXM","ref":"com.miui.videoplayer","_appver":"2019040990","page_name":"GalleryPlayerActivity","_nettype":"4","_andver":"27","package_from":"com.miui.gallery","_model":"Redmi Note 5 Pro","_plyver":"20190218","_ismiui":"1","_locale":"en_GB","_ts":"1556287174"}
+2019-04-26 19:29:34	ERROR	com.miui.videoplayer	[ PushMessageReceiver ] onCommandResult register_success setIMEIAlias  mRegId ==  NFv4FBQYQkVBPOxfN4kgss+m3GRjPw1TnMBtgb9Vk/cT5l6RzJ7K2ooDBza0zFSA
+
+2019-04-26 19:29:34	ERROR	com.miui.videoplayer	[ PushMessageReceiver ] Already subscribed   topic ==  Region_IN
+
+2019-04-26 19:29:34	ERROR	com.miui.videoplayer	[ PushMessageReceiver ] Already subscribed   topic ==  Language_en_GB
+
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.localvideoplayer.GalleryPlayerActivity@a96dc51
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.localvideoplayer.GalleryPlayerActivity@a96dc51
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.localvideoplayer.GalleryPlayerActivity@a96dc51
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.localvideoplayer.GalleryPlayerActivity@a96dc51
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ openLink ] link=mv://SyncSetting  scheme=mv  host=SyncSetting  path=  params=[]   ref=com.miui.videoplayer
+2019-04-26 19:29:34	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_CLICK  obj= 	com.miui.video.common.entity.LinkEntity@47ff24f
+Uri=mv://SyncSetting
+getScheme=mv
+getHost=SyncSetting
+getPath=
+getQuery=null
+getQueryParameterNames=[]
+ref=null
+
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] lastTimeStamp = 1555795168923, ignoreSyncSettingTimes = 0
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ MiDevLogger ] click: CLICK{ target=mv://SyncSetting, additions=[]}, FROM:com.miui.videoplayer , PATH[]
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] getCloudSetting ()
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ LogMivideo ] CLICK{ target=mv://SyncSetting, additions=[]}
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ LogMivideo ] report click event
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ ThreadPoolManager ] initThreadPool index　0
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ GalleryPlayerActivity ] play slide fps --- uricontent://com.miui.gallery.open/raw/%2Fstorage%2Femulated%2F0%2FDCIM%2FCamera%2FVID_20190425_140247.mp4
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"","_miui":"V10","_ver":"2019040990(MiVideo-GMM)","_anoyid":"c1625c48-d52e-4c34-bd51-4700e4dea10d","_region":"IN","type":"click","_res":"hd1080","_device":"whyred","target":"mv://SyncSetting","_miuiver":"V10.2.2.0.OEIMIXM","ref":"com.miui.videoplayer","at":"1556287174248","_appver":"2019040990","_nettype":"4","_andver":"27","_model":"Redmi Note 5 Pro","_plyver":"20190218","_ismiui":"1","_locale":"en_GB","_ts":"1556287174"}
+2019-04-26 19:29:34	ERROR	com.miui.videoplayer	[ VideoViewPresenter ] onActivityResume  isInMultiWindow:false
+
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoViewPresenter ] sendPlayActionBroadcast to :com.miui.gallery play_action:activity_resume_start
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ StatisticsPresenter ] onVideoResume
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ MiAudioManager ] startListenCallState
+2019-04-26 19:29:34	INFO	com.miui.videoplayer	[ Plugin-CPInfoConfig ] Starting load cp config data
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2019-04-26 19:29:34	INFO	com.miui.videoplayer	[ Plugin-PluginConfig ] Starting load cp config data
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] onAccounts Update : size = 1
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoViewPresenter ] callStateChanged state = 0
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ GalleryPlayerActivity ] play slide real path --- /storage/emulated/0/DCIM/Camera/VID_20190425_140247.mp4
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] get service Token succuss
+2019-04-26 19:29:34	ERROR	MediaController	[ mUpdateProgressRunner ] mHandler == null || mPlayer == null
+
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] get service Token succuss
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] get service Token succuss
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] get service Token succuss
+2019-04-26 19:29:34	ERROR	com.miui.videoplayer	[ PushMessageReceiver ] onCommandResult setTopic_success   mTopic ==  Region_IN
+
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET https://video.in.intl.xiaomi.com/api/g1/ad_config?_sdevid=4cc932bd69df4486763ac01c24c3d7c96c8efb34c93236c77ab27dc89889ad54&_miui=V10&_miuiver=V10.2.2.0.OEIMIXM&_andver=27&_model=Redmi%20Note%205%20Pro&_device=whyred&_locale=en_GB&_region=IN&_appver=2019040990&_ismiui=1&_anoyid=c1625c48-d52e-4c34-bd51-4700e4dea10d&_st=eMMIm1m4zjPqAc3z9Fzp2SnMGFsXc7SGNELHHnay_1JgTO-18UNuSycHBNWkGd_wsSuwmHHW5woy2Q-6dN1GQtdJO5fRgb0rSyzkQa-PjL6EqoiesHyI1De2-bRqcaF5dw3uXljqUxcq8Sv2-_MPDGYEogTg8BaVuITnQT6O3eWnmVSMIffdu-hphTtzyT2gVb_Ff3n6pDdjEt__RaVyW1bX0fY9AQf4RLpcKpcMiC74xsT-WR-ICISeFIHKxX9_&_language=&ref=com.miui.videoplayer&_res=hd1080&_nonce=1647700362&_ts=1556287174&_ver=2019040990(MiVideo-GMM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=682c780619eda6e160bda66a0458c57b&_version=stable&_plyver=20190218&_nettype=4&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db http/1.1
+ Request Body is null
+
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET https://video.in.intl.xiaomi.com/api/g1/meta/setting?_sdevid=4cc932bd69df4486763ac01c24c3d7c96c8efb34c93236c77ab27dc89889ad54&_miui=V10&_miuiver=V10.2.2.0.OEIMIXM&_andver=27&_model=Redmi%20Note%205%20Pro&_device=whyred&_locale=en_GB&_region=IN&_appver=2019040990&_ismiui=1&_anoyid=c1625c48-d52e-4c34-bd51-4700e4dea10d&_st=eMMIm1m4zjPqAc3z9Fzp2SnMGFsXc7SGNELHHnay_1JgTO-18UNuSycHBNWkGd_wsSuwmHHW5woy2Q-6dN1GQtdJO5fRgb0rSyzkQa-PjL6EqoiesHyI1De2-bRqcaF5dw3uXljqUxcq8Sv2-_MPDGYEogTg8BaVuITnQT6O3eWnmVSMIffdu-hphTtzyT2gVb_Ff3n6pDdjEt__RaVyW1bX0fY9AQf4RLpcKpcMiC74xsT-WR-ICISeFIHKxX9_&_language=&ref=com.miui.videoplayer&_res=hd1080&_nonce=1647700362&_ts=1556287174&_ver=2019040990(MiVideo-GMM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=682c780619eda6e160bda66a0458c57b&_version=stable&_plyver=20190218&_nettype=4&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db http/1.1
+ Request Body is null
+
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET https://video.in.intl.xiaomi.com/api/g1/meta/setting?_sdevid=4cc932bd69df4486763ac01c24c3d7c96c8efb34c93236c77ab27dc89889ad54&_miui=V10&_miuiver=V10.2.2.0.OEIMIXM&_andver=27&_model=Redmi%20Note%205%20Pro&_device=whyred&_locale=en_GB&_region=IN&_appver=2019040990&_ismiui=1&_anoyid=c1625c48-d52e-4c34-bd51-4700e4dea10d&_st=eMMIm1m4zjPqAc3z9Fzp2SnMGFsXc7SGNELHHnay_1JgTO-18UNuSycHBNWkGd_wsSuwmHHW5woy2Q-6dN1GQtdJO5fRgb0rSyzkQa-PjL6EqoiesHyI1De2-bRqcaF5dw3uXljqUxcq8Sv2-_MPDGYEogTg8BaVuITnQT6O3eWnmVSMIffdu-hphTtzyT2gVb_Ff3n6pDdjEt__RaVyW1bX0fY9AQf4RLpcKpcMiC74xsT-WR-ICISeFIHKxX9_&_language=&ref=com.miui.videoplayer&_res=hd1080&_nonce=1646930864&_ts=1556287174&_ver=2019040990(MiVideo-GMM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=682c780619eda6e160bda66a0458c57b&_version=stable&_plyver=20190218&_nettype=4&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db http/1.1
+ Request Body is null
+
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET https://video.in.intl.xiaomi.com/api/g1/localplay/diversion?ref=&is_from_gallery=true&_sdevid=4cc932bd69df4486763ac01c24c3d7c96c8efb34c93236c77ab27dc89889ad54&_miui=V10&_miuiver=V10.2.2.0.OEIMIXM&_andver=27&_model=Redmi%20Note%205%20Pro&_device=whyred&_locale=en_GB&_region=IN&_appver=2019040990&_ismiui=1&_anoyid=c1625c48-d52e-4c34-bd51-4700e4dea10d&_st=eMMIm1m4zjPqAc3z9Fzp2SnMGFsXc7SGNELHHnay_1JgTO-18UNuSycHBNWkGd_wsSuwmHHW5woy2Q-6dN1GQtdJO5fRgb0rSyzkQa-PjL6EqoiesHyI1De2-bRqcaF5dw3uXljqUxcq8Sv2-_MPDGYEogTg8BaVuITnQT6O3eWnmVSMIffdu-hphTtzyT2gVb_Ff3n6pDdjEt__RaVyW1bX0fY9AQf4RLpcKpcMiC74xsT-WR-ICISeFIHKxX9_&_language=&ref=com.miui.videoplayer&_res=hd1080&_nonce=1646161366&_ts=1556287174&_ver=2019040990(MiVideo-GMM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=682c780619eda6e160bda66a0458c57b&_version=stable&_plyver=20190218&_nettype=4&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db http/1.1
+ Request Body is null
+
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] get service Token succuss
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET https://video.in.intl.xiaomi.com/api/g1/meta/cp?_sdevid=4cc932bd69df4486763ac01c24c3d7c96c8efb34c93236c77ab27dc89889ad54&_miui=V10&_miuiver=V10.2.2.0.OEIMIXM&_andver=27&_model=Redmi%20Note%205%20Pro&_device=whyred&_locale=en_GB&_region=IN&_appver=2019040990&_ismiui=1&_anoyid=c1625c48-d52e-4c34-bd51-4700e4dea10d&_st=eMMIm1m4zjPqAc3z9Fzp2SnMGFsXc7SGNELHHnay_1JgTO-18UNuSycHBNWkGd_wsSuwmHHW5woy2Q-6dN1GQtdJO5fRgb0rSyzkQa-PjL6EqoiesHyI1De2-bRqcaF5dw3uXljqUxcq8Sv2-_MPDGYEogTg8BaVuITnQT6O3eWnmVSMIffdu-hphTtzyT2gVb_Ff3n6pDdjEt__RaVyW1bX0fY9AQf4RLpcKpcMiC74xsT-WR-ICISeFIHKxX9_&_language=&ref=com.miui.videoplayer&_res=hd1080&_nonce=1631925657&_ts=1556287174&_ver=2019040990(MiVideo-GMM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=682c780619eda6e160bda66a0458c57b&_version=stable&_plyver=20190218&_nettype=4&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db http/1.1
+ Request Body is null
+
+2019-04-26 19:29:34	ERROR	com.miui.videoplayer	[ PushMessageReceiver ] onCommandResult setTopic_success   mTopic ==  Language_en_GB
+
+2019-04-26 19:29:34	WARN	FormatUtils	java.lang.NumberFormatException: For input string: "30."
+	at java.lang.Integer.parseInt(Integer.java:608)
+	at java.lang.Integer.parseInt(Integer.java:643)
+	at com.miui.video.framework.utils.FormatUtils.parseInt(FormatUtils.java:322)
+	at com.miui.video.localvideoplayer.GalleryPlayerActivity$8.run(GalleryPlayerActivity.java:658)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:457)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1162)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:636)
+	at java.lang.Thread.run(Thread.java:764)
+
+
+2019-04-26 19:29:34	DEBUG	com.miui.videoplayer	[ GalleryPlayerActivity ] play slide fps ---0 and capFps - null and duration -55.658 and isAImusic --false
+2019-04-26 19:29:34	ERROR	PiscesDiracUtils	[  ] java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+
+2019-04-26 19:29:35	DEBUG	com.miui.videoplayer	[ VideoViewPresenter ] sendPlayActionBroadcast to :com.miui.gallery play_action:play_start
+2019-04-26 19:29:35	DEBUG	com.miui.videoplayer	[ StatisticsPresenter ] type = play__start_succ videoType = local, map: {duration=55, ref=Gallery, at=1556287175176, type=play__start_succ, played_all=0, video_type=local}
+2019-04-26 19:29:35	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"","_miui":"V10","_ver":"2019040990(MiVideo-GMM)","_anoyid":"c1625c48-d52e-4c34-bd51-4700e4dea10d","_region":"IN","type":"play__start_succ","_res":"hd1080","_device":"whyred","video_type":"local","duration":"55","_miuiver":"V10.2.2.0.OEIMIXM","ref":"com.miui.videoplayer","at":"1556287175176","_appver":"2019040990","_nettype":"4","_andver":"27","_model":"Redmi Note 5 Pro","_plyver":"20190218","_ismiui":"1","played_all":"0","_locale":"en_GB","_ts":"1556287175"}
+2019-04-26 19:29:35	ERROR	PiscesDiracUtils	[  ] java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+
+2019-04-26 19:29:35	DEBUG	DBUtils	[ DBUtils ] getDatabaseName= mivideo.db
+2019-04-26 19:29:35	DEBUG	CLVDatabase	[ query ] getCount=0	com.miui.video.framework.db.TableEntity@863d437
+tableName=history
+whereClause=md5_path =?
+whereArgs=a44c9d9a5da5ab84c12ddc91b8e70977
+orderBy=updateTime DESC
+
+2019-04-26 19:29:35	DEBUG	CLVDatabase	[ query ] getCount=0	com.miui.video.framework.db.TableEntity@44c96c2
+tableName=history
+whereClause=md5_path =?
+whereArgs=a44c9d9a5da5ab84c12ddc91b8e70977
+orderBy=updateTime DESC
+
+2019-04-26 19:29:35	DEBUG	CLVDatabase	[ insertOrUpdate ] id=131	com.miui.video.framework.db.TableEntity@e90053b
+tableName=history
+whereClause=path='/storage/emulated/0/DCIM/Camera/VID_20190425_140247.mp4'
+values=currentSubtitlePath:-1
+values=currentAudioTrack:0
+values=md5_path:a44c9d9a5da5ab84c12ddc91b8e70977
+values=updateTime:1556287175236
+values=onlineSubHash:null
+values=extraSubtitlePath:null
+values=title:VID_20190425_140247.mp4
+values=playProgress:0
+values=imgUrl:/storage/emulated/0/Android/data/com.miui.videoplayer/cache/thumb/VID_20190425_140247.mp4.thumb
+values=duration:0
+values=path:/storage/emulated/0/DCIM/Camera/VID_20190425_140247.mp4
+values=extraSubtitleOffset:[{"path":"-1","timeOffset":0}]
+values=size:0
+values=onlineSubLocalPath:null
+
+2019-04-26 19:29:35	DEBUG	com.miui.videoplayer	[ HistorySPHelper ] SPHistoryEntry{path='/storage/emulated/0/DCIM/Camera/VID_20190425_140247.mp4', offset=0, saveTime=1556287175314}
+2019-04-26 19:29:35	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] <<<--- Response base info : 200 OK https://video.in.intl.xiaomi.com/api/g1/meta/setting?_sdevid=4cc932bd69df4486763ac01c24c3d7c96c8efb34c93236c77ab27dc89889ad54&_miui=V10&_miuiver=V10.2.2.0.OEIMIXM&_andver=27&_model=Redmi%20Note%205%20Pro&_device=whyred&_locale=en_GB&_region=IN&_appver=2019040990&_ismiui=1&_anoyid=c1625c48-d52e-4c34-bd51-4700e4dea10d&_st=eMMIm1m4zjPqAc3z9Fzp2SnMGFsXc7SGNELHHnay_1JgTO-18UNuSycHBNWkGd_wsSuwmHHW5woy2Q-6dN1GQtdJO5fRgb0rSyzkQa-PjL6EqoiesHyI1De2-bRqcaF5dw3uXljqUxcq8Sv2-_MPDGYEogTg8BaVuITnQT6O3eWnmVSMIffdu-hphTtzyT2gVb_Ff3n6pDdjEt__RaVyW1bX0fY9AQf4RLpcKpcMiC74xsT-WR-ICISeFIHKxX9_&_language=&ref=com.miui.videoplayer&_res=hd1080&_nonce=1646930864&_ts=1556287174&_ver=2019040990(MiVideo-GMM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=682c780619eda6e160bda66a0458c57b&_version=stable&_plyver=20190218&_nettype=4&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db unknown bytes size
+<<<--- {"data":{"codec_level":"3","disable_codec_name":"none","language_switch":1,"recommend_exit_times":1,"recommend_exit_times_gallery":1,"recommend_exit_times_no_click":1,"recommend_exit_times_no_click_gallery":1,"recommend_page_control_show_times":2,"recommend_page_control_show_times_for_gallery":2,"recommend_page_max_show_times_without_click":1,"recommend_page_max_show_times_without_click_for_gallery":1,"recommend_suspend_times":0,"recommend_suspend_times_gallery":0,"recommend_suspend_times_no_click":1,"recommend_suspend_times_no_click_gallery":1},"msg":"OK","result":1}
+
+
+
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@7669e22
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=setting_key_last_sync_timestamp
+
+2019-04-26 19:29:35	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2019-04-26 19:29:35	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] getCloudSetting ()  onSuccess{recommend_suspend_times_no_click_gallery=1, recommend_exit_times_no_click_gallery=1, recommend_exit_times=1, recommend_suspend_times_no_click=1, recommend_page_control_show_times_for_gallery=2, recommend_page_max_show_times_without_click=1, recommend_exit_times_no_click=1, recommend_page_control_show_times=2, recommend_page_max_show_times_without_click_for_gallery=1, recommend_exit_times_gallery=1, recommend_suspend_times=0, recommend_suspend_times_gallery=0, codec_level=3, disable_codec_name=none, language_switch=1}
+2019-04-26 19:29:35	DEBUG	com.miui.videoplayer	[ CodecCompatManager ] setDisableCodecLevel : 3
+2019-04-26 19:29:35	DEBUG	com.miui.videoplayer	[ CodecCompatManager ] setDisableCodecName : none
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@54cede9
+tableName=ov_setting_table
+whereClause=name='setting_key_last_sync_timestamp'
+values=name:setting_key_last_sync_timestamp
+values=date_time:1556287175723
+values=value:1556287175722
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@d747a6e
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=setting_key_ignore_sync_setting_times
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@6f9d50f
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_suspend_times_no_click_gallery
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@bfd7fa5
+tableName=ov_setting_table
+whereClause=name='setting_key_ignore_sync_setting_times'
+values=name:setting_key_ignore_sync_setting_times
+values=date_time:1556287175727
+values=value:0
+
+2019-04-26 19:29:35	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] get service Token succuss
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@671cf7a
+tableName=ov_setting_table
+whereClause=name='recommend_suspend_times_no_click_gallery'
+values=name:recommend_suspend_times_no_click_gallery
+values=date_time:1556287175728
+values=value:1
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@e08b32b
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_exit_times_no_click_gallery
+
+2019-04-26 19:29:35	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET https://video.in.intl.xiaomi.com/api/g1/meta/plugin?_sdevid=4cc932bd69df4486763ac01c24c3d7c96c8efb34c93236c77ab27dc89889ad54&_miui=V10&_miuiver=V10.2.2.0.OEIMIXM&_andver=27&_model=Redmi%20Note%205%20Pro&_device=whyred&_locale=en_GB&_region=IN&_appver=2019040990&_ismiui=1&_anoyid=c1625c48-d52e-4c34-bd51-4700e4dea10d&_st=eMMIm1m4zjPqAc3z9Fzp2SnMGFsXc7SGNELHHnay_1JgTO-18UNuSycHBNWkGd_wsSuwmHHW5woy2Q-6dN1GQtdJO5fRgb0rSyzkQa-PjL6EqoiesHyI1De2-bRqcaF5dw3uXljqUxcq8Sv2-_MPDGYEogTg8BaVuITnQT6O3eWnmVSMIffdu-hphTtzyT2gVb_Ff3n6pDdjEt__RaVyW1bX0fY9AQf4RLpcKpcMiC74xsT-WR-ICISeFIHKxX9_&_language=&ref=com.miui.videoplayer&_res=hd1080&_nonce=-1763883459&_ts=1556287175&_ver=2019040990(MiVideo-GMM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=682c780619eda6e160bda66a0458c57b&_version=stable&_plyver=20190218&_nettype=4&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db http/1.1
+ Request Body is null
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@e8d9388
+tableName=ov_setting_table
+whereClause=name='recommend_exit_times_no_click_gallery'
+values=name:recommend_exit_times_no_click_gallery
+values=date_time:1556287175745
+values=value:1
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@86b7121
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_exit_times
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@2bd6946
+tableName=ov_setting_table
+whereClause=name='recommend_exit_times'
+values=name:recommend_exit_times
+values=date_time:1556287175763
+values=value:1
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@2dd5707
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_suspend_times_no_click
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@f2c6034
+tableName=ov_setting_table
+whereClause=name='recommend_suspend_times_no_click'
+values=name:recommend_suspend_times_no_click
+values=date_time:1556287175767
+values=value:1
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@76cfe5d
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_page_control_show_times_for_gallery
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@7d6d3d2
+tableName=ov_setting_table
+whereClause=name='recommend_page_control_show_times_for_gallery'
+values=name:recommend_page_control_show_times_for_gallery
+values=date_time:1556287175772
+values=value:2
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=0	com.miui.video.framework.db.TableEntity@16e5ca3
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_page_max_show_times_without_click
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ insert ] id=19	com.miui.video.framework.db.TableEntity@5494ba0
+tableName=ov_setting_table
+values=name:recommend_page_max_show_times_without_click
+values=date_time:1556287175775
+values=value:1
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@3002359
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_exit_times_no_click
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@1aa5b1e
+tableName=ov_setting_table
+whereClause=name='recommend_exit_times_no_click'
+values=name:recommend_exit_times_no_click
+values=date_time:1556287175781
+values=value:1
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@4801fff
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_page_control_show_times
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@28781cc
+tableName=ov_setting_table
+whereClause=name='recommend_page_control_show_times'
+values=name:recommend_page_control_show_times
+values=date_time:1556287175785
+values=value:2
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=0	com.miui.video.framework.db.TableEntity@d069c15
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_page_max_show_times_without_click_for_gallery
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ insert ] id=20	com.miui.video.framework.db.TableEntity@c9d0b2a
+tableName=ov_setting_table
+values=name:recommend_page_max_show_times_without_click_for_gallery
+values=date_time:1556287175790
+values=value:1
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@4c0bd1b
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_exit_times_gallery
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@d90eeb8
+tableName=ov_setting_table
+whereClause=name='recommend_exit_times_gallery'
+values=name:recommend_exit_times_gallery
+values=date_time:1556287175794
+values=value:1
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@9c1e491
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_suspend_times
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@458aff6
+tableName=ov_setting_table
+whereClause=name='recommend_suspend_times'
+values=name:recommend_suspend_times
+values=date_time:1556287175798
+values=value:0
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@da40ff7
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_suspend_times_gallery
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@bc23e64
+tableName=ov_setting_table
+whereClause=name='recommend_suspend_times_gallery'
+values=name:recommend_suspend_times_gallery
+values=date_time:1556287175801
+values=value:0
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@60f38cd
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=codec_level
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@357d582
+tableName=ov_setting_table
+whereClause=name='codec_level'
+values=name:codec_level
+values=date_time:1556287175806
+values=value:3
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@3ffb493
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=disable_codec_name
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@996dcd0
+tableName=ov_setting_table
+whereClause=name='disable_codec_name'
+values=name:disable_codec_name
+values=date_time:1556287175809
+values=value:none
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@56394c9
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=language_switch
+
+2019-04-26 19:29:35	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@f31c7ce
+tableName=ov_setting_table
+whereClause=name='language_switch'
+values=name:language_switch
+values=date_time:1556287175814
+values=value:1
+
+2019-04-26 19:29:36	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] <<<--- Response base info : 200 OK https://video.in.intl.xiaomi.com/api/g1/localplay/diversion?ref=&is_from_gallery=true&_sdevid=4cc932bd69df4486763ac01c24c3d7c96c8efb34c93236c77ab27dc89889ad54&_miui=V10&_miuiver=V10.2.2.0.OEIMIXM&_andver=27&_model=Redmi%20Note%205%20Pro&_device=whyred&_locale=en_GB&_region=IN&_appver=2019040990&_ismiui=1&_anoyid=c1625c48-d52e-4c34-bd51-4700e4dea10d&_st=eMMIm1m4zjPqAc3z9Fzp2SnMGFsXc7SGNELHHnay_1JgTO-18UNuSycHBNWkGd_wsSuwmHHW5woy2Q-6dN1GQtdJO5fRgb0rSyzkQa-PjL6EqoiesHyI1De2-bRqcaF5dw3uXljqUxcq8Sv2-_MPDGYEogTg8BaVuITnQT6O3eWnmVSMIffdu-hphTtzyT2gVb_Ff3n6pDdjEt__RaVyW1bX0fY9AQf4RLpcKpcMiC74xsT-WR-ICISeFIHKxX9_&_language=&ref=com.miui.videoplayer&_res=hd1080&_nonce=1646161366&_ts=1556287174&_ver=2019040990(MiVideo-GMM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=682c780619eda6e160bda66a0458c57b&_version=stable&_plyver=20190218&_nettype=4&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db unknown bytes size
+<<<--- {"data":{"end":[{"duration":146,"id":"V-ytb-7TSsfosD0oI","image_url":"https://i.ytimg.com/vi/7TSsfosD0oI/maxresdefault.jpg","order":156,"target":"mv://YouTube?action=playVideo\u0026id=7TSsfosD0oI\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253D7TSsfosD0oI\u0026detail_id=V-ytb-7TSsfosD0oI\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||0\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Bharat: Slow Motion Song | Salman Khan, Disha Patani | Shreya G","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":138,"id":"V-ytb-Nmc6C9f5hvk","image_url":"https://i.ytimg.com/vi/Nmc6C9f5hvk/maxresdefault.jpg","order":147,"target":"mv://YouTube?action=playVideo\u0026id=Nmc6C9f5hvk\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DNmc6C9f5hvk\u0026detail_id=V-ytb-Nmc6C9f5hvk\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||1\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Avengers Endgame Leaked Footage Full Original Video","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":177,"id":"V-ytb-ExqNTOV-lMY","image_url":"https://i.ytimg.com/vi/ExqNTOV-lMY/maxresdefault.jpg","order":145,"target":"mv://YouTube?action=playVideo\u0026id=ExqNTOV-lMY\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DExqNTOV-lMY\u0026detail_id=V-ytb-ExqNTOV-lMY\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||2\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Ali Ali – Blank | Akshay Kumar | Arko feat. B Praak | Sunny Deol \u0026 Karan Kapadia","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":188,"id":"V-ytb-leyEatUq00E","image_url":"https://i.ytimg.com/vi/leyEatUq00E/maxresdefault.jpg","order":140,"target":"mv://YouTube?action=playVideo\u0026id=leyEatUq00E\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DleyEatUq00E\u0026detail_id=V-ytb-leyEatUq00E\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||3\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"HAULI HAULI : De De Pyaar De  | Neha Kakkar, Garry Sandhu, Tanishk Bagchi","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":219,"id":"V-ytb-IWZFRzF_ndg","image_url":"https://i.ytimg.com/vi/IWZFRzF_ndg/maxresdefault.jpg","order":135,"target":"mv://YouTube?action=playVideo\u0026id=IWZFRzF_ndg\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DIWZFRzF_ndg\u0026detail_id=V-ytb-IWZFRzF_ndg\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||4\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Mumbai Dilli Di Kudiyaan | Student Of The Year 2 |  Tiger, Tara \u0026 Ananya| Vishal Shekhar| Dev, Payal","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":2508,"id":"V-ytb-uVtS1lH9XXg","image_url":"https://i.ytimg.com/vi/uVtS1lH9XXg/maxresdefault.jpg","order":130,"target":"mv://YouTube?action=playVideo\u0026id=uVtS1lH9XXg\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DuVtS1lH9XXg\u0026detail_id=V-ytb-uVtS1lH9XXg\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||5\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"PM Modi, Akshay Kumar full interview","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":192,"id":"V-ytb-Ea_GKoe81GY","image_url":"https://i.ytimg.com/vi/Ea_GKoe81GY/maxresdefault.jpg","order":125,"target":"mv://YouTube?action=playVideo\u0026id=Ea_GKoe81GY\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DEa_GKoe81GY\u0026detail_id=V-ytb-Ea_GKoe81GY\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||6\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"BHARAT | Official Trailer | Salman Khan | Katrina Kaif | Movie Releasing On 5 June 2019","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":3169,"id":"V-voot-606420","image_url":"https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:eco,fl_lossy/kimg/kimg/e5e250fa0e104e779c9aa53af020ae8d_1280X720.jpg","order":120,"target":"mv://VideoLong?url=entity/V-voot-606420\u0026detail_id=V-voot-606420\u0026language=Hindi\u0026position=localplayrecomm||||7\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Naagin S03","top_left_logo":"","top_right_logo":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/6fd200a3b41349dd246afc6494b6df42.webp","type":"video"},{"duration":249,"id":"V-ytb-FuXNumBwDOM","image_url":"https://i.ytimg.com/vi/FuXNumBwDOM/maxresdefault.jpg","order":115,"target":"mv://YouTube?action=playVideo\u0026id=FuXNumBwDOM\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DFuXNumBwDOM\u0026detail_id=V-ytb-FuXNumBwDOM\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||8\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Taylor Swift - ME! (feat. Brendon Urie of Panic! At The Disco)","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":275,"id":"V-ytb-SgUhzxnV37I","image_url":"https://i.ytimg.com/vi/SgUhzxnV37I/maxresdefault.jpg","order":110,"target":"mv://YouTube?action=playVideo\u0026id=SgUhzxnV37I\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DSgUhzxnV37I\u0026detail_id=V-ytb-SgUhzxnV37I\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||9\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Full Video: Nai Lagda | Notebook | Zaheer Iqbal \u0026 Pranutan Bahl | Vishal Mishra","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":748,"id":"V-ytb-O7BpQr4bdcM","image_url":"https://i.ytimg.com/vi/O7BpQr4bdcM/maxresdefault.jpg","order":105,"target":"mv://YouTube?action=playVideo\u0026id=O7BpQr4bdcM\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DO7BpQr4bdcM\u0026detail_id=V-ytb-O7BpQr4bdcM\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||10\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Sonam Kapoor Flaunts PREGNANT Baby Bump With Anand Ahuja At Fila Store Launch","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":36,"id":"V-ytb-wU89YokwDXA","image_url":"https://i.ytimg.com/vi/wU89YokwDXA/maxresdefault.jpg","order":100,"target":"mv://YouTube?action=playVideo\u0026id=wU89YokwDXA\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DwU89YokwDXA\u0026detail_id=V-ytb-wU89YokwDXA\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||11\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"💗Best Romantic Video Status || New  Whatsapp Video status 2019 || Lovely Video Status💗","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":242,"id":"V-ytb-HQaja8RybF0","image_url":"https://i.ytimg.com/vi/HQaja8RybF0/maxresdefault.jpg","order":95,"target":"mv://YouTube?action=playVideo\u0026id=HQaja8RybF0\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DHQaja8RybF0\u0026detail_id=V-ytb-HQaja8RybF0\u0026mode=mivideo\u0026language=Punjabi\u0026position=localplayrecomm||||12\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"CHAD KE NA JAVIN - OFFICIAL VIDEO - WAQAR EX \u0026 NASEEBO LAL (2019)","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":1276,"id":"V-voot-678580","image_url":"https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:eco,fl_lossy/kimg/kimg/48c0439725fd4efb8aa45d77177f8c1b_1280X720.jpg","order":85,"target":"mv://VideoLong?url=entity/V-voot-678580\u0026detail_id=V-voot-678580\u0026language=Hindi\u0026position=localplayrecomm||||13\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Vish Ya Amrit Sitaara","top_left_logo":"","top_right_logo":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/6fd200a3b41349dd246afc6494b6df42.webp","type":"video"},{"duration":211,"id":"V-ytb-rzzDq9Y4MPc","image_url":"https://i.ytimg.com/vi/rzzDq9Y4MPc/maxresdefault.jpg","order":80,"target":"mv://YouTube?action=playVideo\u0026id=rzzDq9Y4MPc\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DrzzDq9Y4MPc\u0026detail_id=V-ytb-rzzDq9Y4MPc\u0026mode=mivideo\u0026language=Punjabi\u0026position=localplayrecomm||||14\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Jindey Ni Jindey (Official Video) | Parmish Verma | Wamiqa Gabbi | Kamal Heer | Dil Diyan Gallan","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":184,"id":"V-ytb-4V2hGpm51gw","image_url":"https://i.ytimg.com/vi/4V2hGpm51gw/maxresdefault.jpg","order":65,"target":"mv://YouTube?action=playVideo\u0026id=4V2hGpm51gw\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253D4V2hGpm51gw\u0026detail_id=V-ytb-4V2hGpm51gw\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||15\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"TU MILA TO HAINA: De De Pyaar De | Ajay Devgn, Rakul | Arijit Singh, Amaal Mallik, Kunaal Vermaa","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":276,"id":"V-ytb-8qtn07bThnE","image_url":"https://i.ytimg.com/vi/8qtn07bThnE/maxresdefault.jpg","order":60,"target":"mv://YouTube?action=playVideo\u0026id=8qtn07bThnE\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253D8qtn07bThnE\u0026detail_id=V-ytb-8qtn07bThnE\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||16\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Tabaah Ho Gaye - Lyrical | Kalank | Madhuri, Varun \u0026 Alia | Shreya | Pritam | Amitabh | Abhishek","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":196,"id":"V-ytb-osBCBg8WAsM","image_url":"https://i.ytimg.com/vi/osBCBg8WAsM/maxresdefault.jpg","order":55,"target":"mv://YouTube?action=playVideo\u0026id=osBCBg8WAsM\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DosBCBg8WAsM\u0026detail_id=V-ytb-osBCBg8WAsM\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||17\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"The Jawaani Song – Student Of The Year 2 | Tiger Shroff, Tara \u0026 Ananya| Vishal \u0026 Shekhar | RD Burman","top_left_logo":"","top_right_logo":"","type":"video"}],"exit":[{"duration":146,"id":"V-ytb-7TSsfosD0oI","image_url":"https://i.ytimg.com/vi/7TSsfosD0oI/maxresdefault.jpg","order":156,"target":"mv://YouTube?action=playVideo\u0026id=7TSsfosD0oI\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253D7TSsfosD0oI\u0026detail_id=V-ytb-7TSsfosD0oI\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||0\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Bharat: Slow Motion Song | Salman Khan, Disha Patani | Shreya G","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":138,"id":"V-ytb-Nmc6C9f5hvk","image_url":"https://i.ytimg.com/vi/Nmc6C9f5hvk/maxresdefault.jpg","order":147,"target":"mv://YouTube?action=playVideo\u0026id=Nmc6C9f5hvk\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DNmc6C9f5hvk\u0026detail_id=V-ytb-Nmc6C9f5hvk\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||1\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Avengers Endgame Leaked Footage Full Original Video","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":177,"id":"V-ytb-ExqNTOV-lMY","image_url":"https://i.ytimg.com/vi/ExqNTOV-lMY/maxresdefault.jpg","order":145,"target":"mv://YouTube?action=playVideo\u0026id=ExqNTOV-lMY\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DExqNTOV-lMY\u0026detail_id=V-ytb-ExqNTOV-lMY\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||2\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Ali Ali – Blank | Akshay Kumar | Arko feat. B Praak | Sunny Deol \u0026 Karan Kapadia","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":188,"id":"V-ytb-leyEatUq00E","image_url":"https://i.ytimg.com/vi/leyEatUq00E/maxresdefault.jpg","order":140,"target":"mv://YouTube?action=playVideo\u0026id=leyEatUq00E\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DleyEatUq00E\u0026detail_id=V-ytb-leyEatUq00E\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||3\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"HAULI HAULI : De De Pyaar De  | Neha Kakkar, Garry Sandhu, Tanishk Bagchi","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":219,"id":"V-ytb-IWZFRzF_ndg","image_url":"https://i.ytimg.com/vi/IWZFRzF_ndg/maxresdefault.jpg","order":135,"target":"mv://YouTube?action=playVideo\u0026id=IWZFRzF_ndg\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DIWZFRzF_ndg\u0026detail_id=V-ytb-IWZFRzF_ndg\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||4\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Mumbai Dilli Di Kudiyaan | Student Of The Year 2 |  Tiger, Tara \u0026 Ananya| Vishal Shekhar| Dev, Payal","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":2508,"id":"V-ytb-uVtS1lH9XXg","image_url":"https://i.ytimg.com/vi/uVtS1lH9XXg/maxresdefault.jpg","order":130,"target":"mv://YouTube?action=playVideo\u0026id=uVtS1lH9XXg\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DuVtS1lH9XXg\u0026detail_id=V-ytb-uVtS1lH9XXg\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||5\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"PM Modi, Akshay Kumar full interview","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":192,"id":"V-ytb-Ea_GKoe81GY","image_url":"https://i.ytimg.com/vi/Ea_GKoe81GY/maxresdefault.jpg","order":125,"target":"mv://YouTube?action=playVideo\u0026id=Ea_GKoe81GY\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DEa_GKoe81GY\u0026detail_id=V-ytb-Ea_GKoe81GY\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||6\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"BHARAT | Official Trailer | Salman Khan | Katrina Kaif | Movie Releasing On 5 June 2019","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":3169,"id":"V-voot-606420","image_url":"https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:eco,fl_lossy/kimg/kimg/e5e250fa0e104e779c9aa53af020ae8d_1280X720.jpg","order":120,"target":"mv://VideoLong?url=entity/V-voot-606420\u0026detail_id=V-voot-606420\u0026language=Hindi\u0026position=localplayrecomm||||7\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Naagin S03","top_left_logo":"","top_right_logo":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/6fd200a3b41349dd246afc6494b6df42.webp","type":"video"},{"duration":249,"id":"V-ytb-FuXNumBwDOM","image_url":"https://i.ytimg.com/vi/FuXNumBwDOM/maxresdefault.jpg","order":115,"target":"mv://YouTube?action=playVideo\u0026id=FuXNumBwDOM\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DFuXNumBwDOM\u0026detail_id=V-ytb-FuXNumBwDOM\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||8\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Taylor Swift - ME! (feat. Brendon Urie of Panic! At The Disco)","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":275,"id":"V-ytb-SgUhzxnV37I","image_url":"https://i.ytimg.com/vi/SgUhzxnV37I/maxresdefault.jpg","order":110,"target":"mv://YouTube?action=playVideo\u0026id=SgUhzxnV37I\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DSgUhzxnV37I\u0026detail_id=V-ytb-SgUhzxnV37I\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||9\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Full Video: Nai Lagda | Notebook | Zaheer Iqbal \u0026 Pranutan Bahl | Vishal Mishra","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":748,"id":"V-ytb-O7BpQr4bdcM","image_url":"https://i.ytimg.com/vi/O7BpQr4bdcM/maxresdefault.jpg","order":105,"target":"mv://YouTube?action=playVideo\u0026id=O7BpQr4bdcM\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DO7BpQr4bdcM\u0026detail_id=V-ytb-O7BpQr4bdcM\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||10\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Sonam Kapoor Flaunts PREGNANT Baby Bump With Anand Ahuja At Fila Store Launch","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":36,"id":"V-ytb-wU89YokwDXA","image_url":"https://i.ytimg.com/vi/wU89YokwDXA/maxresdefault.jpg","order":100,"target":"mv://YouTube?action=playVideo\u0026id=wU89YokwDXA\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DwU89YokwDXA\u0026detail_id=V-ytb-wU89YokwDXA\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||11\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"💗Best Romantic Video Status || New  Whatsapp Video status 2019 || Lovely Video Status💗","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":242,"id":"V-ytb-HQaja8RybF0","image_url":"https://i.ytimg.com/vi/HQaja8RybF0/maxresdefault.jpg","order":95,"target":"mv://YouTube?action=playVideo\u0026id=HQaja8RybF0\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DHQaja8RybF0\u0026detail_id=V-ytb-HQaja8RybF0\u0026mode=mivideo\u0026language=Punjabi\u0026position=localplayrecomm||||12\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"CHAD KE NA JAVIN - OFFICIAL VIDEO - WAQAR EX \u0026 NASEEBO LAL (2019)","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":1276,"id":"V-voot-678580","image_url":"https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:eco,fl_lossy/kimg/kimg/48c0439725fd4efb8aa45d77177f8c1b_1280X720.jpg","order":85,"target":"mv://VideoLong?url=entity/V-voot-678580\u0026detail_id=V-voot-678580\u0026language=Hindi\u0026position=localplayrecomm||||13\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Vish Ya Amrit Sitaara","top_left_logo":"","top_right_logo":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/6fd200a3b41349dd246afc6494b6df42.webp","type":"video"},{"duration":211,"id":"V-ytb-rzzDq9Y4MPc","image_url":"https://i.ytimg.com/vi/rzzDq9Y4MPc/maxresdefault.jpg","order":80,"target":"mv://YouTube?action=playVideo\u0026id=rzzDq9Y4MPc\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DrzzDq9Y4MPc\u0026detail_id=V-ytb-rzzDq9Y4MPc\u0026mode=mivideo\u0026language=Punjabi\u0026position=localplayrecomm||||14\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Jindey Ni Jindey (Official Video) | Parmish Verma | Wamiqa Gabbi | Kamal Heer | Dil Diyan Gallan","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":184,"id":"V-ytb-4V2hGpm51gw","image_url":"https://i.ytimg.com/vi/4V2hGpm51gw/maxresdefault.jpg","order":65,"target":"mv://YouTube?action=playVideo\u0026id=4V2hGpm51gw\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253D4V2hGpm51gw\u0026detail_id=V-ytb-4V2hGpm51gw\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||15\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"TU MILA TO HAINA: De De Pyaar De | Ajay Devgn, Rakul | Arijit Singh, Amaal Mallik, Kunaal Vermaa","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":276,"id":"V-ytb-8qtn07bThnE","image_url":"https://i.ytimg.com/vi/8qtn07bThnE/maxresdefault.jpg","order":60,"target":"mv://YouTube?action=playVideo\u0026id=8qtn07bThnE\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253D8qtn07bThnE\u0026detail_id=V-ytb-8qtn07bThnE\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||16\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Tabaah Ho Gaye - Lyrical | Kalank | Madhuri, Varun \u0026 Alia | Shreya | Pritam | Amitabh | Abhishek","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":196,"id":"V-ytb-osBCBg8WAsM","image_url":"https://i.ytimg.com/vi/osBCBg8WAsM/maxresdefault.jpg","order":55,"target":"mv://YouTube?action=playVideo\u0026id=osBCBg8WAsM\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DosBCBg8WAsM\u0026detail_id=V-ytb-osBCBg8WAsM\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||17\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"The Jawaani Song – Student Of The Year 2 | Tiger Shroff, Tara \u0026 Ananya| Vishal \u0026 Shekhar | RD Burman","top_left_logo":"","top_right_logo":"","type":"video"}],"suspend":[{"duration":146,"id":"V-ytb-7TSsfosD0oI","image_url":"https://i.ytimg.com/vi/7TSsfosD0oI/maxresdefault.jpg","order":156,"target":"mv://YouTube?action=playVideo\u0026id=7TSsfosD0oI\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253D7TSsfosD0oI\u0026detail_id=V-ytb-7TSsfosD0oI\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||0\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Bharat: Slow Motion Song | Salman Khan, Disha Patani | Shreya G","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":138,"id":"V-ytb-Nmc6C9f5hvk","image_url":"https://i.ytimg.com/vi/Nmc6C9f5hvk/maxresdefault.jpg","order":147,"target":"mv://YouTube?action=playVideo\u0026id=Nmc6C9f5hvk\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DNmc6C9f5hvk\u0026detail_id=V-ytb-Nmc6C9f5hvk\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||1\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Avengers Endgame Leaked Footage Full Original Video","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":177,"id":"V-ytb-ExqNTOV-lMY","image_url":"https://i.ytimg.com/vi/ExqNTOV-lMY/maxresdefault.jpg","order":145,"target":"mv://YouTube?action=playVideo\u0026id=ExqNTOV-lMY\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DExqNTOV-lMY\u0026detail_id=V-ytb-ExqNTOV-lMY\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||2\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Ali Ali – Blank | Akshay Kumar | Arko feat. B Praak | Sunny Deol \u0026 Karan Kapadia","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":188,"id":"V-ytb-leyEatUq00E","image_url":"https://i.ytimg.com/vi/leyEatUq00E/maxresdefault.jpg","order":140,"target":"mv://YouTube?action=playVideo\u0026id=leyEatUq00E\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DleyEatUq00E\u0026detail_id=V-ytb-leyEatUq00E\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||3\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"HAULI HAULI : De De Pyaar De  | Neha Kakkar, Garry Sandhu, Tanishk Bagchi","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":219,"id":"V-ytb-IWZFRzF_ndg","image_url":"https://i.ytimg.com/vi/IWZFRzF_ndg/maxresdefault.jpg","order":135,"target":"mv://YouTube?action=playVideo\u0026id=IWZFRzF_ndg\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DIWZFRzF_ndg\u0026detail_id=V-ytb-IWZFRzF_ndg\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||4\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Mumbai Dilli Di Kudiyaan | Student Of The Year 2 |  Tiger, Tara \u0026 Ananya| Vishal Shekhar| Dev, Payal","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":2508,"id":"V-ytb-uVtS1lH9XXg","image_url":"https://i.ytimg.com/vi/uVtS1lH9XXg/maxresdefault.jpg","order":130,"target":"mv://YouTube?action=playVideo\u0026id=uVtS1lH9XXg\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DuVtS1lH9XXg\u0026detail_id=V-ytb-uVtS1lH9XXg\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||5\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"PM Modi, Akshay Kumar full interview","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":192,"id":"V-ytb-Ea_GKoe81GY","image_url":"https://i.ytimg.com/vi/Ea_GKoe81GY/maxresdefault.jpg","order":125,"target":"mv://YouTube?action=playVideo\u0026id=Ea_GKoe81GY\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DEa_GKoe81GY\u0026detail_id=V-ytb-Ea_GKoe81GY\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||6\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"BHARAT | Official Trailer | Salman Khan | Katrina Kaif | Movie Releasing On 5 June 2019","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":3169,"id":"V-voot-606420","image_url":"https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:eco,fl_lossy/kimg/kimg/e5e250fa0e104e779c9aa53af020ae8d_1280X720.jpg","order":120,"target":"mv://VideoLong?url=entity/V-voot-606420\u0026detail_id=V-voot-606420\u0026language=Hindi\u0026position=localplayrecomm||||7\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Naagin S03","top_left_logo":"","top_right_logo":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/6fd200a3b41349dd246afc6494b6df42.webp","type":"video"},{"duration":249,"id":"V-ytb-FuXNumBwDOM","image_url":"https://i.ytimg.com/vi/FuXNumBwDOM/maxresdefault.jpg","order":115,"target":"mv://YouTube?action=playVideo\u0026id=FuXNumBwDOM\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DFuXNumBwDOM\u0026detail_id=V-ytb-FuXNumBwDOM\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||8\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Taylor Swift - ME! (feat. Brendon Urie of Panic! At The Disco)","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":275,"id":"V-ytb-SgUhzxnV37I","image_url":"https://i.ytimg.com/vi/SgUhzxnV37I/maxresdefault.jpg","order":110,"target":"mv://YouTube?action=playVideo\u0026id=SgUhzxnV37I\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DSgUhzxnV37I\u0026detail_id=V-ytb-SgUhzxnV37I\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||9\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Full Video: Nai Lagda | Notebook | Zaheer Iqbal \u0026 Pranutan Bahl | Vishal Mishra","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":748,"id":"V-ytb-O7BpQr4bdcM","image_url":"https://i.ytimg.com/vi/O7BpQr4bdcM/maxresdefault.jpg","order":105,"target":"mv://YouTube?action=playVideo\u0026id=O7BpQr4bdcM\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DO7BpQr4bdcM\u0026detail_id=V-ytb-O7BpQr4bdcM\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||10\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Sonam Kapoor Flaunts PREGNANT Baby Bump With Anand Ahuja At Fila Store Launch","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":36,"id":"V-ytb-wU89YokwDXA","image_url":"https://i.ytimg.com/vi/wU89YokwDXA/maxresdefault.jpg","order":100,"target":"mv://YouTube?action=playVideo\u0026id=wU89YokwDXA\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DwU89YokwDXA\u0026detail_id=V-ytb-wU89YokwDXA\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||11\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"💗Best Romantic Video Status || New  Whatsapp Video status 2019 || Lovely Video Status💗","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":242,"id":"V-ytb-HQaja8RybF0","image_url":"https://i.ytimg.com/vi/HQaja8RybF0/maxresdefault.jpg","order":95,"target":"mv://YouTube?action=playVideo\u0026id=HQaja8RybF0\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DHQaja8RybF0\u0026detail_id=V-ytb-HQaja8RybF0\u0026mode=mivideo\u0026language=Punjabi\u0026position=localplayrecomm||||12\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"CHAD KE NA JAVIN - OFFICIAL VIDEO - WAQAR EX \u0026 NASEEBO LAL (2019)","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":1276,"id":"V-voot-678580","image_url":"https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:eco,fl_lossy/kimg/kimg/48c0439725fd4efb8aa45d77177f8c1b_1280X720.jpg","order":85,"target":"mv://VideoLong?url=entity/V-voot-678580\u0026detail_id=V-voot-678580\u0026language=Hindi\u0026position=localplayrecomm||||13\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Vish Ya Amrit Sitaara","top_left_logo":"","top_right_logo":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/6fd200a3b41349dd246afc6494b6df42.webp","type":"video"},{"duration":211,"id":"V-ytb-rzzDq9Y4MPc","image_url":"https://i.ytimg.com/vi/rzzDq9Y4MPc/maxresdefault.jpg","order":80,"target":"mv://YouTube?action=playVideo\u0026id=rzzDq9Y4MPc\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DrzzDq9Y4MPc\u0026detail_id=V-ytb-rzzDq9Y4MPc\u0026mode=mivideo\u0026language=Punjabi\u0026position=localplayrecomm||||14\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Jindey Ni Jindey (Official Video) | Parmish Verma | Wamiqa Gabbi | Kamal Heer | Dil Diyan Gallan","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":184,"id":"V-ytb-4V2hGpm51gw","image_url":"https://i.ytimg.com/vi/4V2hGpm51gw/maxresdefault.jpg","order":65,"target":"mv://YouTube?action=playVideo\u0026id=4V2hGpm51gw\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253D4V2hGpm51gw\u0026detail_id=V-ytb-4V2hGpm51gw\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||15\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"TU MILA TO HAINA: De De Pyaar De | Ajay Devgn, Rakul | Arijit Singh, Amaal Mallik, Kunaal Vermaa","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":276,"id":"V-ytb-8qtn07bThnE","image_url":"https://i.ytimg.com/vi/8qtn07bThnE/maxresdefault.jpg","order":60,"target":"mv://YouTube?action=playVideo\u0026id=8qtn07bThnE\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253D8qtn07bThnE\u0026detail_id=V-ytb-8qtn07bThnE\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||16\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Tabaah Ho Gaye - Lyrical | Kalank | Madhuri, Varun \u0026 Alia | Shreya | Pritam | Amitabh | Abhishek","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":196,"id":"V-ytb-osBCBg8WAsM","image_url":"https://i.ytimg.com/vi/osBCBg8WAsM/maxresdefault.jpg","order":55,"target":"mv://YouTube?action=playVideo\u0026id=osBCBg8WAsM\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DosBCBg8WAsM\u0026detail_id=V-ytb-osBCBg8WAsM\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||17\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"The Jawaani Song – Student Of The Year 2 | Tiger Shroff, Tara \u0026 Ananya| Vishal \u0026 Shekhar | RD Burman","top_left_logo":"","top_right_logo":"","type":"video"}]},"msg":"OK","result":1}
+
+
+
+
+2019-04-26 19:29:36	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] <<<--- Response base info : 200 OK https://video.in.intl.xiaomi.com/api/g1/ad_config?_sdevid=4cc932bd69df4486763ac01c24c3d7c96c8efb34c93236c77ab27dc89889ad54&_miui=V10&_miuiver=V10.2.2.0.OEIMIXM&_andver=27&_model=Redmi%20Note%205%20Pro&_device=whyred&_locale=en_GB&_region=IN&_appver=2019040990&_ismiui=1&_anoyid=c1625c48-d52e-4c34-bd51-4700e4dea10d&_st=eMMIm1m4zjPqAc3z9Fzp2SnMGFsXc7SGNELHHnay_1JgTO-18UNuSycHBNWkGd_wsSuwmHHW5woy2Q-6dN1GQtdJO5fRgb0rSyzkQa-PjL6EqoiesHyI1De2-bRqcaF5dw3uXljqUxcq8Sv2-_MPDGYEogTg8BaVuITnQT6O3eWnmVSMIffdu-hphTtzyT2gVb_Ff3n6pDdjEt__RaVyW1bX0fY9AQf4RLpcKpcMiC74xsT-WR-ICISeFIHKxX9_&_language=&ref=com.miui.videoplayer&_res=hd1080&_nonce=1647700362&_ts=1556287174&_ver=2019040990(MiVideo-GMM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=682c780619eda6e160bda66a0458c57b&_version=stable&_plyver=20190218&_nettype=4&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db unknown bytes size
+<<<--- {"data":{},"msg":"OK","result":1}
+
+
+
+
+2019-04-26 19:29:36	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] <<<--- Response base info : 200 OK https://video.in.intl.xiaomi.com/api/g1/meta/setting?_sdevid=4cc932bd69df4486763ac01c24c3d7c96c8efb34c93236c77ab27dc89889ad54&_miui=V10&_miuiver=V10.2.2.0.OEIMIXM&_andver=27&_model=Redmi%20Note%205%20Pro&_device=whyred&_locale=en_GB&_region=IN&_appver=2019040990&_ismiui=1&_anoyid=c1625c48-d52e-4c34-bd51-4700e4dea10d&_st=eMMIm1m4zjPqAc3z9Fzp2SnMGFsXc7SGNELHHnay_1JgTO-18UNuSycHBNWkGd_wsSuwmHHW5woy2Q-6dN1GQtdJO5fRgb0rSyzkQa-PjL6EqoiesHyI1De2-bRqcaF5dw3uXljqUxcq8Sv2-_MPDGYEogTg8BaVuITnQT6O3eWnmVSMIffdu-hphTtzyT2gVb_Ff3n6pDdjEt__RaVyW1bX0fY9AQf4RLpcKpcMiC74xsT-WR-ICISeFIHKxX9_&_language=&ref=com.miui.videoplayer&_res=hd1080&_nonce=1647700362&_ts=1556287174&_ver=2019040990(MiVideo-GMM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=682c780619eda6e160bda66a0458c57b&_version=stable&_plyver=20190218&_nettype=4&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db unknown bytes size
+<<<--- {"data":{"codec_level":"3","disable_codec_name":"none","language_switch":1,"recommend_exit_times":1,"recommend_exit_times_gallery":1,"recommend_exit_times_no_click":1,"recommend_exit_times_no_click_gallery":1,"recommend_page_control_show_times":2,"recommend_page_control_show_times_for_gallery":2,"recommend_page_max_show_times_without_click":1,"recommend_page_max_show_times_without_click_for_gallery":1,"recommend_suspend_times":0,"recommend_suspend_times_gallery":0,"recommend_suspend_times_no_click":1,"recommend_suspend_times_no_click_gallery":1},"msg":"OK","result":1}
+
+
+
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@e6b02a6
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=setting_key_last_sync_timestamp
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@c2e4e7
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=setting_key_ignore_sync_setting_times
+
+2019-04-26 19:29:36	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] getCloudSetting ()  onSuccess{recommend_suspend_times_no_click_gallery=1, recommend_exit_times_no_click_gallery=1, recommend_exit_times=1, recommend_suspend_times_no_click=1, recommend_page_control_show_times_for_gallery=2, recommend_page_max_show_times_without_click=1, recommend_exit_times_no_click=1, recommend_page_control_show_times=2, recommend_page_max_show_times_without_click_for_gallery=1, recommend_exit_times_gallery=1, recommend_suspend_times=0, recommend_suspend_times_gallery=0, codec_level=3, disable_codec_name=none, language_switch=1}
+2019-04-26 19:29:36	DEBUG	com.miui.videoplayer	[ CodecCompatManager ] setDisableCodecLevel : 3
+2019-04-26 19:29:36	DEBUG	com.miui.videoplayer	[ CodecCompatManager ] setDisableCodecName : none
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@6640894
+tableName=ov_setting_table
+whereClause=name='setting_key_last_sync_timestamp'
+values=name:setting_key_last_sync_timestamp
+values=date_time:1556287176280
+values=value:1556287176277
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@9acef3d
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_suspend_times_no_click_gallery
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@5b4a332
+tableName=ov_setting_table
+whereClause=name='setting_key_ignore_sync_setting_times'
+values=name:setting_key_ignore_sync_setting_times
+values=date_time:1556287176281
+values=value:0
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@24ee883
+tableName=ov_setting_table
+whereClause=name='recommend_suspend_times_no_click_gallery'
+values=name:recommend_suspend_times_no_click_gallery
+values=date_time:1556287176285
+values=value:1
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@ec31a00
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_exit_times_no_click_gallery
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@6fe4239
+tableName=ov_setting_table
+whereClause=name='recommend_exit_times_no_click_gallery'
+values=name:recommend_exit_times_no_click_gallery
+values=date_time:1556287176308
+values=value:1
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@385c07e
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_exit_times
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@d89df
+tableName=ov_setting_table
+whereClause=name='recommend_exit_times'
+values=name:recommend_exit_times
+values=date_time:1556287176314
+values=value:1
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@73fd62c
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_suspend_times_no_click
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@b77c8f5
+tableName=ov_setting_table
+whereClause=name='recommend_suspend_times_no_click'
+values=name:recommend_suspend_times_no_click
+values=date_time:1556287176318
+values=value:1
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@3b9668a
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_page_control_show_times_for_gallery
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@beae4fb
+tableName=ov_setting_table
+whereClause=name='recommend_page_control_show_times_for_gallery'
+values=name:recommend_page_control_show_times_for_gallery
+values=date_time:1556287176323
+values=value:2
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@9ea2918
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_page_max_show_times_without_click
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@1c8ff71
+tableName=ov_setting_table
+whereClause=name='recommend_page_max_show_times_without_click'
+values=name:recommend_page_max_show_times_without_click
+values=date_time:1556287176329
+values=value:1
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@2cf6156
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_exit_times_no_click
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@78d5d7
+tableName=ov_setting_table
+whereClause=name='recommend_exit_times_no_click'
+values=name:recommend_exit_times_no_click
+values=date_time:1556287176334
+values=value:1
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@fe4bec4
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_page_control_show_times
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@61d21ad
+tableName=ov_setting_table
+whereClause=name='recommend_page_control_show_times'
+values=name:recommend_page_control_show_times
+values=date_time:1556287176338
+values=value:2
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@3783ce2
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_page_max_show_times_without_click_for_gallery
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@58af873
+tableName=ov_setting_table
+whereClause=name='recommend_page_max_show_times_without_click_for_gallery'
+values=name:recommend_page_max_show_times_without_click_for_gallery
+values=date_time:1556287176343
+values=value:1
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@fd10330
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_exit_times_gallery
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@2172ba9
+tableName=ov_setting_table
+whereClause=name='recommend_exit_times_gallery'
+values=name:recommend_exit_times_gallery
+values=date_time:1556287176347
+values=value:1
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@e1452e
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_suspend_times
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@292a8cf
+tableName=ov_setting_table
+whereClause=name='recommend_suspend_times'
+values=name:recommend_suspend_times
+values=date_time:1556287176352
+values=value:0
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@6fb225c
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=recommend_suspend_times_gallery
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@c8dd965
+tableName=ov_setting_table
+whereClause=name='recommend_suspend_times_gallery'
+values=name:recommend_suspend_times_gallery
+values=date_time:1556287176357
+values=value:0
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@9c0863a
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=codec_level
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@abb02eb
+tableName=ov_setting_table
+whereClause=name='codec_level'
+values=name:codec_level
+values=date_time:1556287176362
+values=value:3
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@9460848
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=disable_codec_name
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@907a6e1
+tableName=ov_setting_table
+whereClause=name='disable_codec_name'
+values=name:disable_codec_name
+values=date_time:1556287176367
+values=value:none
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@20cc06
+tableName=ov_setting_table
+whereClause=name =?
+whereArgs=language_switch
+
+2019-04-26 19:29:36	DEBUG	OVDatabase	[ update ] count=1	com.miui.video.framework.db.TableEntity@ec4e2c7
+tableName=ov_setting_table
+whereClause=name='language_switch'
+values=name:language_switch
+values=date_time:1556287176370
+values=value:1
+
+2019-04-26 19:29:36	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] <<<--- Response base info : 200 OK https://video.in.intl.xiaomi.com/api/g1/meta/cp?_sdevid=4cc932bd69df4486763ac01c24c3d7c96c8efb34c93236c77ab27dc89889ad54&_miui=V10&_miuiver=V10.2.2.0.OEIMIXM&_andver=27&_model=Redmi%20Note%205%20Pro&_device=whyred&_locale=en_GB&_region=IN&_appver=2019040990&_ismiui=1&_anoyid=c1625c48-d52e-4c34-bd51-4700e4dea10d&_st=eMMIm1m4zjPqAc3z9Fzp2SnMGFsXc7SGNELHHnay_1JgTO-18UNuSycHBNWkGd_wsSuwmHHW5woy2Q-6dN1GQtdJO5fRgb0rSyzkQa-PjL6EqoiesHyI1De2-bRqcaF5dw3uXljqUxcq8Sv2-_MPDGYEogTg8BaVuITnQT6O3eWnmVSMIffdu-hphTtzyT2gVb_Ff3n6pDdjEt__RaVyW1bX0fY9AQf4RLpcKpcMiC74xsT-WR-ICISeFIHKxX9_&_language=&ref=com.miui.videoplayer&_res=hd1080&_nonce=1631925657&_ts=1556287174&_ver=2019040990(MiVideo-GMM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=682c780619eda6e160bda66a0458c57b&_version=stable&_plyver=20190218&_nettype=4&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db unknown bytes size
+<<<--- {"data":[{"apk_url":"","app_icon":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/1e0ef3cd7029104d95de9760db097fad.webp","cp_link":"mv://Linker?deeplink=","id":"flickstree","name":"flickstree","top_right_logo":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/775080a50f9ae061e58716e3f9ca4c51.webp"},{"apk_url":"http://alsgp0-fds.api.xiaomi.net/mvideo/10001/2/bab44ced86ba7535fb46f684efb9d67d.zip","app_icon":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/3e3ad427bc7c529aa424e06e6acaac5a.webp","cp_link":"","id":"hungama","name":"hungama","top_right_logo":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/b6e957183b41e1c241f863b2485ae8d8.webp"},{"apk_url":"http://alsgp0-fds.api.xiaomi.net/mvideo/10001/2/20eb6123136c2b23927268a5f01a5d80.zip","app_icon":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/997409ad8a3df6c9afadbf6a1b36c47f.webp","cp_link":"","id":"sonyliv","name":"SonyLIV","top_right_logo":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/142c18fdad90490c0895eef86198bf21.webp"},{"apk_url":"","app_icon":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/de8a0a6dbddb2a2a3e5293860c75b671.webp","cp_link":"mv://Linker?deeplink=market%3A//details%3Fid%3Dcom.uc.vmate%26referrer%3Dutm_content%253Dclick_id%25253A26la46t49377568334073c243facb722%25253Bby%25253Avmate_ucunion%2526utm_source%253Dxumin1%40mivideovmate%252523","id":"vmate","name":"vmate","top_right_logo":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/c7c59d14857ab646098515d93a3beef6.webp"},{"apk_url":"","app_icon":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/50043855c7234bfee5add0b6c327f31f.webp","cp_link":"","id":"voot","name":"voot","top_right_logo":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/6fd200a3b41349dd246afc6494b6df42.webp"},{"apk_url":"","app_icon":"","cp_link":"mv://Linker?deeplink=","id":"ytb","name":"YouTube","top_right_logo":""}],"msg":"OK","result":1}
+
+
+
+
+2019-04-26 19:29:36	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] <<<--- Response base info : 200 OK https://video.in.intl.xiaomi.com/api/g1/meta/plugin?_sdevid=4cc932bd69df4486763ac01c24c3d7c96c8efb34c93236c77ab27dc89889ad54&_miui=V10&_miuiver=V10.2.2.0.OEIMIXM&_andver=27&_model=Redmi%20Note%205%20Pro&_device=whyred&_locale=en_GB&_region=IN&_appver=2019040990&_ismiui=1&_anoyid=c1625c48-d52e-4c34-bd51-4700e4dea10d&_st=eMMIm1m4zjPqAc3z9Fzp2SnMGFsXc7SGNELHHnay_1JgTO-18UNuSycHBNWkGd_wsSuwmHHW5woy2Q-6dN1GQtdJO5fRgb0rSyzkQa-PjL6EqoiesHyI1De2-bRqcaF5dw3uXljqUxcq8Sv2-_MPDGYEogTg8BaVuITnQT6O3eWnmVSMIffdu-hphTtzyT2gVb_Ff3n6pDdjEt__RaVyW1bX0fY9AQf4RLpcKpcMiC74xsT-WR-ICISeFIHKxX9_&_language=&ref=com.miui.videoplayer&_res=hd1080&_nonce=-1763883459&_ts=1556287175&_ver=2019040990(MiVideo-GMM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=682c780619eda6e160bda66a0458c57b&_version=stable&_plyver=20190218&_nettype=4&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db unknown bytes size
+<<<--- {"data":[{"id":"flickstree","market_sign":{"appClientId":"2882303761517609685","appId":"mivideo_com.miui.videoplayer.flickstree","appSignature":"gh6A5hblk9yk-mI5H9CyIOcRzxXyqMsnI-v7cboXxk4","ext_marketType":"mivideo","ext_mimarket_external_url":"http://api.in.intl.video.xiaomi.srv/api/g1/meta/upgrade?uri=mivideo://player-plugin/flickstree/6\u0026_region=in","nonce":"7301528829479876886:25938110","ref":"com.miui.videoplayer_plugin"},"md5":"65cf01db5dda05fa4ba25599490b2bbd","mi_market":"mimarket://download?appId=mivideo_com.miui.videoplayer.flickstree\u0026ext_mimarket_external_url=http%3A%2F%2Fapi.in.intl.video.xiaomi.srv%2Fapi%2Fg1%2Fmeta%2Fupgrade%3Furi%3Dmivideo%3A%2F%2Fplayer-plugin%2Fflickstree%2F6%26_region%3Din\u0026marketType=mivideo","name":"flickstree","params":{"apk_name":"flickstree.zip","class_name":"com.miui.videoplayer.flickstree.VideoViewContainer","package_name":"com.miui.videoplayer.flickstree","plugin_type":"apk"},"type":"player_plugin","updated_at":1552995547,"url":"https://cdn.alsgp0.fds.api.mi-img.com/mvideo/10001/2/65cf01db5dda05fa4ba25599490b2bbd.zip","version":5,"version_name":"19.3.19"},{"id":"hungama","market_sign":{"appClientId":"2882303761517609685","appId":"mivideo_com.miui.videoplayer.hungama","appSignature":"UmJ8Xmwb60DVsBCknUb6Gg_ffluh8nSNCLD2Bwy_S9A","ext_marketType":"mivideo","ext_mimarket_external_url":"http://api.in.intl.video.xiaomi.srv/api/g1/meta/upgrade?uri=mivideo://player-plugin/hungama/16\u0026_region=in","nonce":"4893473557242517100:25938110","ref":"com.miui.videoplayer_plugin"},"md5":"162c7d11adda65b54dfa820729ced13a","mi_market":"mimarket://download?appId=mivideo_com.miui.videoplayer.hungama\u0026ext_mimarket_external_url=http%3A%2F%2Fapi.in.intl.video.xiaomi.srv%2Fapi%2Fg1%2Fmeta%2Fupgrade%3Furi%3Dmivideo%3A%2F%2Fplayer-plugin%2Fhungama%2F16%26_region%3Din\u0026marketType=mivideo","name":"hungama","params":{"apk_name":"Hungama.apk","class_name":"com.miui.videoplayer.hungama.HungamaVideoView","need_install":"false","need_unzip":"true","package_name":"com.miui.videoplayer.hungama","plugin_type":"apk","silence_install":"false"},"type":"player_plugin","updated_at":1550572151,"url":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10001/2/162c7d11adda65b54dfa820729ced13a.zip","version":16,"version_name":"16"},{"id":"sonyliv","market_sign":{"appClientId":"2882303761517609685","appId":"mivideo_com.sonyliv.xiaomi","appSignature":"op1PZ0GgcNeBni-e6JmeWXqvKMhiytYkduj3PntN_zE","ext_marketType":"mivideo","ext_mimarket_external_url":"http://api.in.intl.video.xiaomi.srv/api/g1/meta/upgrade?uri=mivideo://player-plugin/sonyliv/1\u0026_region=in","nonce":"659456335724062627:25938110","ref":"com.miui.videoplayer_plugin"},"md5":"e76366087b58e5f0cf83699f1608cf16","mi_market":"mimarket://download?appId=mivideo_com.sonyliv.xiaomi\u0026ext_mimarket_external_url=http%3A%2F%2Fapi.in.intl.video.xiaomi.srv%2Fapi%2Fg1%2Fmeta%2Fupgrade%3Furi%3Dmivideo%3A%2F%2Fplayer-plugin%2Fsonyliv%2F1%26_region%3Din\u0026marketType=mivideo","name":"SonyLIV","params":{"always_launch_app":"true","apk_name":"app-release_xiaomi_v1.0.0.apk","cancelable_download":"false","class_name":"com.miui.videoplayer.sonyliv.SonylivVideoView","display_name":"sonyliv","mi_market_detail":"mimarket://details?id=com.sonyliv.xiaomi\u0026ref=mivideo\u0026startDownload=true\u0026senderPackageName=com.miui.videoplayer\u0026back=true -p \"com.xiaomi.mipicks\"","need_install":"true","need_unzip":"false","package_name":"com.sonyliv.xiaomi","plugin_type":"apk","show_start_dialog":"false","signature":"810d7473a085be5ca66edec18c5cd9ae","silence_install":"true","version_code":"1000"},"type":"app_apk","updated_at":1524838365,"url":"https://cdn.alsgp0.fds.api.mi-img.com/mvideo/10001/1/e76366087b58e5f0cf83699f1608cf16.apk","version":1,"version_name":"1.0.0.0"},{"id":"voot","market_sign":{"appClientId":"2882303761517609685","appId":"mivideo_com.miui.videoplayer.voot","appSignature":"c8GSZzNVRVvDr9Ntyu5O8KBQKL_aO5bGnliqZFae4F4","ext_marketType":"mivideo","ext_mimarket_external_url":"http://api.in.intl.video.xiaomi.srv/api/g1/meta/upgrade?uri=mivideo://player-plugin/voot/12\u0026_region=in","nonce":"8678079031432014797:25938110","ref":"com.miui.videoplayer_plugin"},"md5":"5eb4b9c65aafa21f7be88349b8cdf8e3","mi_market":"mimarket://download?appId=mivideo_com.miui.videoplayer.voot\u0026ext_mimarket_external_url=http%3A%2F%2Fapi.in.intl.video.xiaomi.srv%2Fapi%2Fg1%2Fmeta%2Fupgrade%3Furi%3Dmivideo%3A%2F%2Fplayer-plugin%2Fvoot%2F12%26_region%3Din\u0026marketType=mivideo","name":"voot","params":{"apk_name":"voot.zip","class_name":"com.miui.videoplayer.voot.VootVideoViewContainer","need_install":"false","need_unzip":"false","package_name":"com.miui.videoplayer.voot","plugin_type":"apk","silence_install":"false"},"type":"player_plugin","updated_at":1551347481,"url":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10001/2/5eb4b9c65aafa21f7be88349b8cdf8e3.zip","version":12,"version_name":"19.2.18"}],"msg":"OK","result":1}
+
+
+
+
+2019-04-26 19:29:36	INFO	com.miui.videoplayer	[ Plugin-PluginConfig ] syncServer() success.
+2019-04-26 19:29:36	DEBUG	com.miui.videoplayer	[ Plugin-PluginConfig ] onLoad
+2019-04-26 19:30:31	DEBUG	com.miui.videoplayer	[ VideoViewPresenter ] OnCompletionListener onCompletion :  
+2019-04-26 19:30:31	DEBUG	com.miui.videoplayer	[ VideoViewPresenter ] sendPlayActionBroadcast to :com.miui.gallery play_action:play_complete
+2019-04-26 19:30:31	DEBUG	CLVDatabase	[ query ] getCount=1	com.miui.video.framework.db.TableEntity@1b964cc
+tableName=history
+whereClause=md5_path =?
+whereArgs=a44c9d9a5da5ab84c12ddc91b8e70977
+orderBy=updateTime DESC
+
+2019-04-26 19:30:31	DEBUG	DBUtils	[ moveToNext ] size=1	VideoEntity[baseId=0]
+uri=null
+mediaId=0
+hideId=-1
+id=131
+title=VID_20190425_140247.mp4
+imgUrl=/storage/emulated/0/Android/data/com.miui.videoplayer/cache/thumb/VID_20190425_140247.mp4.thumb
+path=/storage/emulated/0/DCIM/Camera/VID_20190425_140247.mp4
+size=0.00B
+updateTime=2019年04月26日 19时29分35秒
+
+2019-04-26 19:30:31	DEBUG	CLVDatabase	[ insertOrUpdate ] id=131	com.miui.video.framework.db.TableEntity@a6e4315
+tableName=history
+whereClause=path='/storage/emulated/0/DCIM/Camera/VID_20190425_140247.mp4'
+values=currentSubtitlePath:-1
+values=currentAudioTrack:0
+values=md5_path:a44c9d9a5da5ab84c12ddc91b8e70977
+values=updateTime:1556287231100
+values=onlineSubHash:
+values=extraSubtitlePath:
+values=title:VID_20190425_140247.mp4
+values=playProgress:0
+values=imgUrl:/storage/emulated/0/Android/data/com.miui.videoplayer/cache/thumb/VID_20190425_140247.mp4.thumb
+values=duration:55658
+values=path:/storage/emulated/0/DCIM/Camera/VID_20190425_140247.mp4
+values=extraSubtitleOffset:[{"path":"-1","timeOffset":0}]
+values=size:139319479
+values=onlineSubLocalPath:
+values=_id:131
+
+2019-04-26 19:30:31	DEBUG	com.miui.videoplayer	[ HistorySPHelper ] SPHistoryEntry{path='/storage/emulated/0/DCIM/Camera/VID_20190425_140247.mp4', offset=0, saveTime=1556287231108}
+2019-04-26 19:30:31	DEBUG	com.miui.videoplayer	[ StatisticsPresenter ] type = play__completelast videoType = local, map: {duration=55, ref=Gallery, at=1556287231142, type=play__completelast, played_all=56, video_type=local}
+2019-04-26 19:30:31	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"","_miui":"V10","_ver":"2019040990(MiVideo-GMM)","_anoyid":"c1625c48-d52e-4c34-bd51-4700e4dea10d","_region":"IN","type":"play__completelast","_res":"hd1080","_device":"whyred","video_type":"local","duration":"55","_miuiver":"V10.2.2.0.OEIMIXM","ref":"com.miui.videoplayer","at":"1556287231142","_appver":"2019040990","_nettype":"4","_andver":"27","_model":"Redmi Note 5 Pro","_plyver":"20190218","_ismiui":"1","played_all":"56","_locale":"en_GB","_ts":"1556287231"}
+2019-04-26 19:30:31	DEBUG	DataUtils	[ addUI ] ui= RecommendVideoFragment{cba3c1b #0 id=0x1020002 RecommendVideoFragment}
+2019-04-26 19:30:31	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackDev : map = {"ref":"com.miui.videoplayer","page_name":"RecommendVideoFragment","package_from":"com.miui.gallery","type":"page_view"}
+2019-04-26 19:30:31	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"","_miui":"V10","_ver":"2019040990(MiVideo-GMM)","_anoyid":"c1625c48-d52e-4c34-bd51-4700e4dea10d","_region":"IN","type":"page_view","_res":"hd1080","_device":"whyred","_miuiver":"V10.2.2.0.OEIMIXM","ref":"com.miui.videoplayer","_appver":"2019040990","page_name":"RecommendVideoFragment","_nettype":"4","_andver":"27","package_from":"com.miui.gallery","_model":"Redmi Note 5 Pro","_plyver":"20190218","_ismiui":"1","_locale":"en_GB","_ts":"1556287231"}
+
+2019-04-26 19:30:31	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2019-04-26 19:30:31	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] get service Token succuss
+2019-04-26 19:30:31	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET https://video.in.intl.xiaomi.com/api/g1/localplay/recomm?ref=&_sdevid=4cc932bd69df4486763ac01c24c3d7c96c8efb34c93236c77ab27dc89889ad54&_miui=V10&_miuiver=V10.2.2.0.OEIMIXM&_andver=27&_model=Redmi%20Note%205%20Pro&_device=whyred&_locale=en_GB&_region=IN&_appver=2019040990&_ismiui=1&_anoyid=c1625c48-d52e-4c34-bd51-4700e4dea10d&_st=eMMIm1m4zjPqAc3z9Fzp2SnMGFsXc7SGNELHHnay_1JgTO-18UNuSycHBNWkGd_wsSuwmHHW5woy2Q-6dN1GQtdJO5fRgb0rSyzkQa-PjL6EqoiesHyI1De2-bRqcaF5dw3uXljqUxcq8Sv2-_MPDGYEogTg8BaVuITnQT6O3eWnmVSMIffdu-hphTtzyT2gVb_Ff3n6pDdjEt__RaVyW1bX0fY9AQf4RLpcKpcMiC74xsT-WR-ICISeFIHKxX9_&_language=&ref=com.miui.videoplayer&_res=hd1080&_nonce=157845352&_ts=1556287231&_ver=2019040990(MiVideo-GMM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=682c780619eda6e160bda66a0458c57b&_version=stable&_plyver=20190218&_nettype=4&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db http/1.1
+ Request Body is null
+
+2019-04-26 19:30:31	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] <<<--- Response base info : 200 OK https://video.in.intl.xiaomi.com/api/g1/localplay/recomm?ref=&_sdevid=4cc932bd69df4486763ac01c24c3d7c96c8efb34c93236c77ab27dc89889ad54&_miui=V10&_miuiver=V10.2.2.0.OEIMIXM&_andver=27&_model=Redmi%20Note%205%20Pro&_device=whyred&_locale=en_GB&_region=IN&_appver=2019040990&_ismiui=1&_anoyid=c1625c48-d52e-4c34-bd51-4700e4dea10d&_st=eMMIm1m4zjPqAc3z9Fzp2SnMGFsXc7SGNELHHnay_1JgTO-18UNuSycHBNWkGd_wsSuwmHHW5woy2Q-6dN1GQtdJO5fRgb0rSyzkQa-PjL6EqoiesHyI1De2-bRqcaF5dw3uXljqUxcq8Sv2-_MPDGYEogTg8BaVuITnQT6O3eWnmVSMIffdu-hphTtzyT2gVb_Ff3n6pDdjEt__RaVyW1bX0fY9AQf4RLpcKpcMiC74xsT-WR-ICISeFIHKxX9_&_language=&ref=com.miui.videoplayer&_res=hd1080&_nonce=157845352&_ts=1556287231&_ver=2019040990(MiVideo-GMM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=682c780619eda6e160bda66a0458c57b&_version=stable&_plyver=20190218&_nettype=4&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db unknown bytes size
+<<<--- {"data":[{"duration":146,"id":"V-ytb-7TSsfosD0oI","image_url":"https://i.ytimg.com/vi/7TSsfosD0oI/maxresdefault.jpg","order":156,"target":"mv://YouTube?action=playVideo\u0026id=7TSsfosD0oI\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253D7TSsfosD0oI\u0026detail_id=V-ytb-7TSsfosD0oI\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||0\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Bharat: Slow Motion Song | Salman Khan, Disha Patani | Shreya G","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":138,"id":"V-ytb-Nmc6C9f5hvk","image_url":"https://i.ytimg.com/vi/Nmc6C9f5hvk/maxresdefault.jpg","order":147,"target":"mv://YouTube?action=playVideo\u0026id=Nmc6C9f5hvk\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DNmc6C9f5hvk\u0026detail_id=V-ytb-Nmc6C9f5hvk\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||1\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Avengers Endgame Leaked Footage Full Original Video","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":177,"id":"V-ytb-ExqNTOV-lMY","image_url":"https://i.ytimg.com/vi/ExqNTOV-lMY/maxresdefault.jpg","order":145,"target":"mv://YouTube?action=playVideo\u0026id=ExqNTOV-lMY\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DExqNTOV-lMY\u0026detail_id=V-ytb-ExqNTOV-lMY\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||2\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Ali Ali – Blank | Akshay Kumar | Arko feat. B Praak | Sunny Deol \u0026 Karan Kapadia","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":188,"id":"V-ytb-leyEatUq00E","image_url":"https://i.ytimg.com/vi/leyEatUq00E/maxresdefault.jpg","order":140,"target":"mv://YouTube?action=playVideo\u0026id=leyEatUq00E\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DleyEatUq00E\u0026detail_id=V-ytb-leyEatUq00E\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||3\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"HAULI HAULI : De De Pyaar De  | Neha Kakkar, Garry Sandhu, Tanishk Bagchi","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":219,"id":"V-ytb-IWZFRzF_ndg","image_url":"https://i.ytimg.com/vi/IWZFRzF_ndg/maxresdefault.jpg","order":135,"target":"mv://YouTube?action=playVideo\u0026id=IWZFRzF_ndg\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DIWZFRzF_ndg\u0026detail_id=V-ytb-IWZFRzF_ndg\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||4\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Mumbai Dilli Di Kudiyaan | Student Of The Year 2 |  Tiger, Tara \u0026 Ananya| Vishal Shekhar| Dev, Payal","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":2508,"id":"V-ytb-uVtS1lH9XXg","image_url":"https://i.ytimg.com/vi/uVtS1lH9XXg/maxresdefault.jpg","order":130,"target":"mv://YouTube?action=playVideo\u0026id=uVtS1lH9XXg\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DuVtS1lH9XXg\u0026detail_id=V-ytb-uVtS1lH9XXg\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||5\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"PM Modi, Akshay Kumar full interview","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":192,"id":"V-ytb-Ea_GKoe81GY","image_url":"https://i.ytimg.com/vi/Ea_GKoe81GY/maxresdefault.jpg","order":125,"target":"mv://YouTube?action=playVideo\u0026id=Ea_GKoe81GY\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DEa_GKoe81GY\u0026detail_id=V-ytb-Ea_GKoe81GY\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||6\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"BHARAT | Official Trailer | Salman Khan | Katrina Kaif | Movie Releasing On 5 June 2019","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":3169,"id":"V-voot-606420","image_url":"https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:eco,fl_lossy/kimg/kimg/e5e250fa0e104e779c9aa53af020ae8d_1280X720.jpg","order":120,"target":"mv://VideoLong?url=entity/V-voot-606420\u0026detail_id=V-voot-606420\u0026language=Hindi\u0026position=localplayrecomm||||7\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Naagin S03","top_left_logo":"","top_right_logo":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/6fd200a3b41349dd246afc6494b6df42.webp","type":"video"},{"duration":249,"id":"V-ytb-FuXNumBwDOM","image_url":"https://i.ytimg.com/vi/FuXNumBwDOM/maxresdefault.jpg","order":115,"target":"mv://YouTube?action=playVideo\u0026id=FuXNumBwDOM\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DFuXNumBwDOM\u0026detail_id=V-ytb-FuXNumBwDOM\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||8\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Taylor Swift - ME! (feat. Brendon Urie of Panic! At The Disco)","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":275,"id":"V-ytb-SgUhzxnV37I","image_url":"https://i.ytimg.com/vi/SgUhzxnV37I/maxresdefault.jpg","order":110,"target":"mv://YouTube?action=playVideo\u0026id=SgUhzxnV37I\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DSgUhzxnV37I\u0026detail_id=V-ytb-SgUhzxnV37I\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||9\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Full Video: Nai Lagda | Notebook | Zaheer Iqbal \u0026 Pranutan Bahl | Vishal Mishra","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":748,"id":"V-ytb-O7BpQr4bdcM","image_url":"https://i.ytimg.com/vi/O7BpQr4bdcM/maxresdefault.jpg","order":105,"target":"mv://YouTube?action=playVideo\u0026id=O7BpQr4bdcM\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DO7BpQr4bdcM\u0026detail_id=V-ytb-O7BpQr4bdcM\u0026mode=mivideo\u0026language=English\u0026position=localplayrecomm||||10\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Sonam Kapoor Flaunts PREGNANT Baby Bump With Anand Ahuja At Fila Store Launch","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":36,"id":"V-ytb-wU89YokwDXA","image_url":"https://i.ytimg.com/vi/wU89YokwDXA/maxresdefault.jpg","order":100,"target":"mv://YouTube?action=playVideo\u0026id=wU89YokwDXA\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DwU89YokwDXA\u0026detail_id=V-ytb-wU89YokwDXA\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||11\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"💗Best Romantic Video Status || New  Whatsapp Video status 2019 || Lovely Video Status💗","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":242,"id":"V-ytb-HQaja8RybF0","image_url":"https://i.ytimg.com/vi/HQaja8RybF0/maxresdefault.jpg","order":95,"target":"mv://YouTube?action=playVideo\u0026id=HQaja8RybF0\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DHQaja8RybF0\u0026detail_id=V-ytb-HQaja8RybF0\u0026mode=mivideo\u0026language=Punjabi\u0026position=localplayrecomm||||12\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"CHAD KE NA JAVIN - OFFICIAL VIDEO - WAQAR EX \u0026 NASEEBO LAL (2019)","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":1276,"id":"V-voot-678580","image_url":"https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:eco,fl_lossy/kimg/kimg/48c0439725fd4efb8aa45d77177f8c1b_1280X720.jpg","order":85,"target":"mv://VideoLong?url=entity/V-voot-678580\u0026detail_id=V-voot-678580\u0026language=Hindi\u0026position=localplayrecomm||||13\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Vish Ya Amrit Sitaara","top_left_logo":"","top_right_logo":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10000/9/6fd200a3b41349dd246afc6494b6df42.webp","type":"video"},{"duration":211,"id":"V-ytb-rzzDq9Y4MPc","image_url":"https://i.ytimg.com/vi/rzzDq9Y4MPc/maxresdefault.jpg","order":80,"target":"mv://YouTube?action=playVideo\u0026id=rzzDq9Y4MPc\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DrzzDq9Y4MPc\u0026detail_id=V-ytb-rzzDq9Y4MPc\u0026mode=mivideo\u0026language=Punjabi\u0026position=localplayrecomm||||14\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Jindey Ni Jindey (Official Video) | Parmish Verma | Wamiqa Gabbi | Kamal Heer | Dil Diyan Gallan","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":184,"id":"V-ytb-4V2hGpm51gw","image_url":"https://i.ytimg.com/vi/4V2hGpm51gw/maxresdefault.jpg","order":65,"target":"mv://YouTube?action=playVideo\u0026id=4V2hGpm51gw\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253D4V2hGpm51gw\u0026detail_id=V-ytb-4V2hGpm51gw\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||15\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"TU MILA TO HAINA: De De Pyaar De | Ajay Devgn, Rakul | Arijit Singh, Amaal Mallik, Kunaal Vermaa","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":276,"id":"V-ytb-8qtn07bThnE","image_url":"https://i.ytimg.com/vi/8qtn07bThnE/maxresdefault.jpg","order":60,"target":"mv://YouTube?action=playVideo\u0026id=8qtn07bThnE\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253D8qtn07bThnE\u0026detail_id=V-ytb-8qtn07bThnE\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||16\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"Tabaah Ho Gaye - Lyrical | Kalank | Madhuri, Varun \u0026 Alia | Shreya | Pritam | Amitabh | Abhishek","top_left_logo":"","top_right_logo":"","type":"video"},{"duration":196,"id":"V-ytb-osBCBg8WAsM","image_url":"https://i.ytimg.com/vi/osBCBg8WAsM/maxresdefault.jpg","order":55,"target":"mv://YouTube?action=playVideo\u0026id=osBCBg8WAsM\u0026fullscreen=true\u0026transparent=false\u0026default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DosBCBg8WAsM\u0026detail_id=V-ytb-osBCBg8WAsM\u0026mode=mivideo\u0026language=Hindi\u0026position=localplayrecomm||||17\u0026back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026ref=LOCALRECOMM","target_addition":["mv://LogMivideo?event=VIEW"],"title":"The Jawaani Song – Student Of The Year 2 | Tiger Shroff, Tara \u0026 Ananya| Vishal \u0026 Shekhar | RD Burman","top_left_logo":"","top_right_logo":"","type":"video"}],"msg":"OK","result":1}
+
+
+
+
+2019-04-26 19:30:31	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= 	com.miui.video.common.entity.LinkEntity@5e12151
+Uri=mv://YouTube?action=playVideo&id=7TSsfosD0oI&fullscreen=true&transparent=false&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253D7TSsfosD0oI&detail_id=V-ytb-7TSsfosD0oI&mode=mivideo&language=English&position=localplayrecomm||||0&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&ref=LOCALRECOMM
+getScheme=mv
+getHost=YouTube
+getPath=
+getQuery=action=playVideo&id=7TSsfosD0oI&fullscreen=true&transparent=false&default=mv://h5internal?url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3D7TSsfosD0oI&detail_id=V-ytb-7TSsfosD0oI&mode=mivideo&language=English&position=localplayrecomm||||0&back_scheme=mv://Main?url=feed/op-home&ref=LOCALRECOMM&ref=LOCALRECOMM
+getQueryParameterNames=[action, id, fullscreen, transparent, default, detail_id, mode, language, position, back_scheme, ref]
+ref=UIRecommendVideo-ACTION_SHOW
+
+2019-04-26 19:30:31	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= 	com.miui.video.common.entity.LinkEntity@8353224
+Uri=mv://YouTube?action=playVideo&id=Nmc6C9f5hvk&fullscreen=true&transparent=false&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DNmc6C9f5hvk&detail_id=V-ytb-Nmc6C9f5hvk&mode=mivideo&language=English&position=localplayrecomm||||1&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&ref=LOCALRECOMM
+getScheme=mv
+getHost=YouTube
+getPath=
+getQuery=action=playVideo&id=Nmc6C9f5hvk&fullscreen=true&transparent=false&default=mv://h5internal?url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DNmc6C9f5hvk&detail_id=V-ytb-Nmc6C9f5hvk&mode=mivideo&language=English&position=localplayrecomm||||1&back_scheme=mv://Main?url=feed/op-home&ref=LOCALRECOMM&ref=LOCALRECOMM
+getQueryParameterNames=[action, id, fullscreen, transparent, default, detail_id, mode, language, position, back_scheme, ref]
+ref=UIRecommendVideo-ACTION_SHOW
+
+2019-04-26 19:30:31	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= 	com.miui.video.common.entity.LinkEntity@f6019b5
+Uri=mv://YouTube?action=playVideo&id=ExqNTOV-lMY&fullscreen=true&transparent=false&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DExqNTOV-lMY&detail_id=V-ytb-ExqNTOV-lMY&mode=mivideo&language=Hindi&position=localplayrecomm||||2&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&ref=LOCALRECOMM
+getScheme=mv
+getHost=YouTube
+getPath=
+getQuery=action=playVideo&id=ExqNTOV-lMY&fullscreen=true&transparent=false&default=mv://h5internal?url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DExqNTOV-lMY&detail_id=V-ytb-ExqNTOV-lMY&mode=mivideo&language=Hindi&position=localplayrecomm||||2&back_scheme=mv://Main?url=feed/op-home&ref=LOCALRECOMM&ref=LOCALRECOMM
+getQueryParameterNames=[action, id, fullscreen, transparent, default, detail_id, mode, language, position, back_scheme, ref]
+ref=UIRecommendVideo-ACTION_SHOW
+
+2019-04-26 19:30:31	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= 	com.miui.video.common.entity.LinkEntity@63840d8
+Uri=mv://YouTube?action=playVideo&id=leyEatUq00E&fullscreen=true&transparent=false&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DleyEatUq00E&detail_id=V-ytb-leyEatUq00E&mode=mivideo&language=English&position=localplayrecomm||||3&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&ref=LOCALRECOMM
+getScheme=mv
+getHost=YouTube
+getPath=
+getQuery=action=playVideo&id=leyEatUq00E&fullscreen=true&transparent=false&default=mv://h5internal?url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DleyEatUq00E&detail_id=V-ytb-leyEatUq00E&mode=mivideo&language=English&position=localplayrecomm||||3&back_scheme=mv://Main?url=feed/op-home&ref=LOCALRECOMM&ref=LOCALRECOMM
+getQueryParameterNames=[action, id, fullscreen, transparent, default, detail_id, mode, language, position, back_scheme, ref]
+ref=UIRecommendVideo-ACTION_SHOW
+
+2019-04-26 19:30:31	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= 	com.miui.video.common.entity.LinkEntity@4b775d9
+Uri=mv://YouTube?action=playVideo&id=IWZFRzF_ndg&fullscreen=true&transparent=false&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DIWZFRzF_ndg&detail_id=V-ytb-IWZFRzF_ndg&mode=mivideo&language=Hindi&position=localplayrecomm||||4&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&ref=LOCALRECOMM
+getScheme=mv
+getHost=YouTube
+getPath=
+getQuery=action=playVideo&id=IWZFRzF_ndg&fullscreen=true&transparent=false&default=mv://h5internal?url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DIWZFRzF_ndg&detail_id=V-ytb-IWZFRzF_ndg&mode=mivideo&language=Hindi&position=localplayrecomm||||4&back_scheme=mv://Main?url=feed/op-home&ref=LOCALRECOMM&ref=LOCALRECOMM
+getQueryParameterNames=[action, id, fullscreen, transparent, default, detail_id, mode, language, position, back_scheme, ref]
+ref=UIRecommendVideo-ACTION_SHOW
+
+2019-04-26 19:30:31	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= 	com.miui.video.common.entity.LinkEntity@23ad64c
+Uri=mv://YouTube?action=playVideo&id=uVtS1lH9XXg&fullscreen=true&transparent=false&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DuVtS1lH9XXg&detail_id=V-ytb-uVtS1lH9XXg&mode=mivideo&language=English&position=localplayrecomm||||5&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&ref=LOCALRECOMM
+getScheme=mv
+getHost=YouTube
+getPath=
+getQuery=action=playVideo&id=uVtS1lH9XXg&fullscreen=true&transparent=false&default=mv://h5internal?url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DuVtS1lH9XXg&detail_id=V-ytb-uVtS1lH9XXg&mode=mivideo&language=English&position=localplayrecomm||||5&back_scheme=mv://Main?url=feed/op-home&ref=LOCALRECOMM&ref=LOCALRECOMM
+getQueryParameterNames=[action, id, fullscreen, transparent, default, detail_id, mode, language, position, back_scheme, ref]
+ref=UIRecommendVideo-ACTION_SHOW
+
+2019-04-26 19:30:31	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= 	com.miui.video.common.entity.LinkEntity@54359bd
+Uri=mv://YouTube?action=playVideo&id=Ea_GKoe81GY&fullscreen=true&transparent=false&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%253A%252F%252Fm.youtube.com%252Fwatch%253Fv%253DEa_GKoe81GY&detail_id=V-ytb-Ea_GKoe81GY&mode=mivideo&language=Hindi&position=localplayrecomm||||6&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&ref=LOCALRECOMM
+getScheme=mv
+getHost=YouTube
+getPath=
+getQuery=action=playVideo&id=Ea_GKoe81GY&fullscreen=true&transparent=false&default=mv://h5internal?url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DEa_GKoe81GY&detail_id=V-ytb-Ea_GKoe81GY&mode=mivideo&language=Hindi&position=localplayrecomm||||6&back_scheme=mv://Main?url=feed/op-home&ref=LOCALRECOMM&ref=LOCALRECOMM
+getQueryParameterNames=[action, id, fullscreen, transparent, default, detail_id, mode, language, position, back_scheme, ref]
+ref=UIRecommendVideo-ACTION_SHOW
+
+2019-04-26 19:30:31	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= 	com.miui.video.common.entity.LinkEntity@ed120fe
+Uri=mv://VideoLong?url=entity/V-voot-606420&detail_id=V-voot-606420&language=Hindi&position=localplayrecomm||||7&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&ref=LOCALRECOMM
+getScheme=mv
+getHost=VideoLong
+getPath=
+getQuery=url=entity/V-voot-606420&detail_id=V-voot-606420&language=Hindi&position=localplayrecomm||||7&back_scheme=mv://Main?url=feed/op-home&ref=LOCALRECOMM&ref=LOCALRECOMM
+getQueryParameterNames=[url, detail_id, language, position, back_scheme, ref]
+ref=UIRecommendVideo-ACTION_SHOW
+
+2019-04-26 19:30:32	DEBUG	com.miui.videoplayer	[ VideoViewPresenter ] onKeyDown vVideoView. is not Playing
+2019-04-26 19:30:32	DEBUG	com.miui.videoplayer	[ VideoViewPresenter ] sendPlayActionBroadcast to :com.miui.gallery play_action:start_button_clicked
+2019-04-26 19:30:33	DEBUG	com.miui.videoplayer	[ VideoViewPresenter ] VideoViewPresenter#pause
+2019-04-26 19:30:33	ERROR	PiscesDiracUtils	[  ] java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+
+2019-04-26 19:30:33	DEBUG	com.miui.videoplayer	[ VideoViewPresenter ] sendPlayActionBroadcast to :com.miui.gallery play_action:activity_paused_pause
+2019-04-26 19:30:33	DEBUG	com.miui.videoplayer	[ MiAudioManager ] stopListenCallState
+2019-04-26 19:30:33	DEBUG	com.miui.videoplayer	[ MiAudioManager ] stopListenCallState  LISTEN_NONE
+2019-04-26 19:30:33	ERROR	PiscesDiracUtils	[  ] java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+
